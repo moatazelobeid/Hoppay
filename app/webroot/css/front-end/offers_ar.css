@@ -1,0 +1,228 @@
+.row
+{
+	width:100%;
+	height:auto;
+}
+.dotd-bar1 {
+width: auto;
+height: auto;
+background-color:#3264A0;
+border-radius: 3px;
+line-height: 43px;
+height:40px;
+}
+.dotd-bar1 .dotd-title {
+float: right;
+color: white!important;
+font-size: 21px;
+padding-right: 1em;
+}
+.fllt {
+float: left;
+color: #fff!important;
+text-transform: uppercase;
+font-family: 'FjallaOne-Regular';
+font-weight: normal;
+font-size: 24px!important;
+padding-right: 5px!important;
+padding-left: 0!important;
+}
+.dotd-bar1 .dotd-title .ofTheYellow {
+width: auto;
+height: auto;
+display: inline-block;
+float: left;
+color: #FFBB2C!important;
+text-transform: uppercase;
+font-family: 'FjallaOne-Regular';
+font-weight: normal;
+font-size: 24px;
+}
+.ofrpan
+{
+	position:relative;
+	margin-top:2em;
+}
+.fr {
+  float: left !important;
+}
+.gd-col {
+padding-right: 2.6em;
+float: left;
+position: relative;
+width: 23%;
+margin-bottom: 2.5em;
+}
+.deal:hover
+{
+	box-shadow:0px 1px 6px rgb(121, 121, 121);
+}
+.dotdProductModuleNew .deal{
+border: 1px solid #ccc;
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+min-height: 356px;
+position: relative;
+text-align: center;
+}
+.dotdProductModuleNew .titleArrows {
+border: 2px solid #FF7F0A;
+border-top-left-radius: 2em;
+border-top-right-radius: 2em;
+-moz-border-radius-topleft: 2em;
+-moz-border-radius-topright: 2em;
+position: absolute;
+top: -4px;
+width: 98.5%;
+}
+.dotdProductModuleNew .offerTitleWrap {
+padding-top: 3px;
+text-align: center;
+font-size: 21px;
+font-weight: bold;
+height: 42px;
+overflow: hidden;
+top: -6px;
+position: relative;
+margin: 0 auto;
+line-height: 40px;
+color: #2866C2;
+z-index: 1;
+border-bottom: 1px solid #DBDBDB;
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+direction: rtl;
+}
+.dotdProductModuleNew .offerSubTitle {
+font-weight: bold;
+font-size: 12px;
+margin-top: 9px;
+height: 20px;
+overflow: hidden;
+color: #333;
+width: 85%;
+text-align: center;
+margin: 0 auto;
+direction: rtl;
+}
+.dotdProductModuleNew .pImgContainer {
+height: 150px;
+width: 150px;
+line-height: 150px;
+padding-top: 10px;
+text-align: center;
+margin: 0 auto;
+}
+.dotdProductModuleNew .pImgContainer img {
+vertical-align: middle;
+max-width: 150px;
+max-height: 150px;
+}
+.dotdProductModuleNew .descriptionWrap {
+height: 32px;
+overflow: hidden;
+margin: 15px auto 7px;
+}
+.dotdProductModuleNew .description {
+color: #333;
+width: 162px;
+margin: 0 auto;
+height: 32px;
+overflow: hidden;
+}
+.dotdProductModuleNew .description div {
+height: 16px;
+overflow: hidden;
+font-family: 'calibri'!important;
+font-size:13px;
+}
+small
+{
+	font-family: 'calibri'!important;
+font-size:13px;
+}
+.dotdProductModuleNew .priceWrap {
+height: 46px;
+background-color: #E5ECF1;
+margin-top: 5px;
+border-top: 1px solid #BCBFC2;
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+}
+.dotdProductModuleNew .priceWrap .old {
+border-left: 1px solid #BCBFC2;
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+}
+.dotdProductModuleNew .priceWrap .containerWrap {
+width: 50%;
+float: right;
+padding-top: 3px;
+height: 44px;
+}
+.dotdProductModuleNew .priceWrap .containerWrap {
+width: 50%;
+float: right;
+padding-top: 3px;
+height: 44px;
+}
+.dotdProductModuleNew .priceWrap .old .price-title {
+color: #848484;
+font-size: 11px;
+}
+.dotdProductModuleNew .priceWrap .old .price {
+text-decoration: line-through;
+color: #848484;
+}
+.dotdProductModuleNew .priceWrap .price {
+font-size: 19px;
+font-weight: bold;
+}
+.dotdProductModuleNew .priceWrap .old .price div {
+color: #848484;
+height: 21px;
+overflow: hidden;
+}
+a.noUnderline{text-decoration:none; color:#fff;}
+.dotdProductModuleNew .grabNow {
+height: 42px;
+background-color:#FF7F0A;
+line-height: 39px;
+text-transform:uppercase;
+font-size: 17px;
+color: #fff;
+}
+a.noUnderline img
+{
+max-width: 150px;
+max-height: 200px;
+display: block;
+margin: 0 auto;
+}
+.ofrpan .gd-col:nth-child(4n+0)
+{
+	padding-right:0;
+}
+.dotd-bar1 h3
+{
+float:left;
+color:#fff;
+font-family:Arial, Helvetica, sans-serif;
+font-size:14px;
+text-align:right;
+padding-left:1em;
+margin:0;
+}
+.dotdProductModuleNew .deal a
+{
+	text-decoration: none;
+	color: #1971CB;
+}
+.search-bar-text
+{
+	height: 19px!important;
+}

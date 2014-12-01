@@ -1,0 +1,109 @@
+.bodypanl {
+	margin-top: 128px;
+}
+.header{
+	width: 100%;
+height: 40px;
+position: fixed;
+z-index: 2000000;
+background: #222a35;
+}
+.title2 a{
+	color: #fff;
+	text-decoration: none;;
+}
+
+.listdata ul li:last-child .img_cover
+{
+	background-image: url("../../img/seeall-ar.png") !important;
+	border: 3px solid #fff;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	box-shadow: 1px 1px 5px rgb(151, 151, 151);
+	height: 80px;
+    margin-top: 24px;
+    width: 150px;
+}
+
+
+
+.img_cover {
+	display: inline-block;
+width: 152px;
+height: 88px;
+box-shadow: 1px 1px 5px rgb(151, 151, 151);
+text-align: center;
+}
+
+.last .img_cover:hover{box-shadow: 1px 1px 5px rgb(151, 151, 151) !important;opacity:0.8;}
+
+.listdata ul li:last-child .img_cover{box-shadow: 1px 1px 5px rgb(151, 151, 151) !important;}
+
+
+
+.listdata> ul> li:last-child .gimage:hover .img_cover {
+	opacity:.8;
+	
+}
+
+
+.menupanel1 .icon_close {
+width: 43px;
+height: 43px;
+background-image: url(../../images/close.png);
+background-repeat: no-repeat;
+left: 3px!important;
+bottom: 4px!important;
+display: block;
+position: absolute;
+text-decoration: none;
+z-index: 50000;
+cursor: pointer;
+}
+.tabMenues a{
+	padding: 5px;
+background: #1c4888;
+color: #fff;
+text-decoration: none;
+margin-right: 10px;
+margin-top: 2px;
+border:1px solid #fff;
+display: inline-block;
+}
+.tabMenues a.active,.tabMenues a:hover{
+	color: #1c4888;
+    background: #fff;
+    border:1px solid #1c4888;
+}
+
+
+.g-offers {
+	position: absolute;
+	width: 152px;
+	font-size: 15px !important;
+	height: 20px;
+	background: rgba(30,90,197,1);
+	z-index: 10;
+	color: #fff;
+	font-weight: bold !important;
+	font-family:calibri !important;
+	box-shadow: 1px 1px 2px rgba(77,71,71,.8);
+	cursor: pointer;
+	-webkit-transition: height .5s;
+	transition: height .5s;
+	overflow: hidden;
+	text-align: center;
+	bottom: 0px;
+}
+
+.dsntnew1 {
+	font-weight: 700;
+	color: #fff;
+	font-size: 14px;
+}
+
+.ca-offers span, .g-offers span {
+	font-size: 13px;
+	font-weight: 400;
+	font-family:calibri !important;
+}

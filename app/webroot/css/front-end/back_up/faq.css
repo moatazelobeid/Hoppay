@@ -1,0 +1,83 @@
+.leftfaqpan
+{
+	width:70%;
+	float:left;
+}
+.leftfaqpan2
+{
+	width:25%;
+	float:right;position: relative;
+	top: -16px;
+}
+.leftfaqpan2 h1
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 17px;
+	line-height: 1.29;
+	color: #FFF;
+	background: #1688DD;
+	margin: 0;
+	margin-bottom: 10px;
+	text-align: center;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	font-weight: bold;
+	box-shadow: 0px 1px 4px rgb(138, 138, 138);
+}
+.leftfaqpan2_inner
+{
+	width:100%;
+	float:right;
+	border: 1px solid #E1E1E1;
+	border-radius: 4px;
+	min-height: 35px;
+	-webkit-box-shadow: 0 4px 3px -3px #E1E1E1;
+	-moz-box-shadow: 0 4px 3px -3px #E1E1E1;
+	box-shadow: 0 4px 3px -3px #E1E1E1;
+	margin-top: 9px;
+}
+.leftfaqpan2_inner ul
+{
+	position:relative;
+	margin:0px 10px;
+}
+.leftfaqpan2_inner ul li {
+	position: relative;
+	list-style-type: square;
+	list-style-position: inside;
+	text-align: left;
+	display: block;
+	background-image: url(/menacompare/img/listviewdot1.png);
+	background-repeat: no-repeat;
+	background-position: 0px 4px;
+	padding-left: 21px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	line-height: 20px;
+	color: #121418;
+	margin: 3px 0 6px 0;
+	padding-bottom: 6px;
+	border-bottom: 1px dashed rgb(211, 209, 209);
+}
+.leftfaqpan2_inner li:last-child{
+	border-bottom:none;
+	padding-bottom:0;
+}
+.leftfaqpan2_inner ul li a {
+	color: #121418;
+	text-decoration:none;
+}
+.leftfaqpan2_inner ul li a:hover {
+	color:#227EE2;
+	text-decoration:none;
+}
+.leftfaqpan2_inner ul li input[type="radio"]
+{
+	position: relative;
+	top:3px;
+	cursor: pointer;
+}
+.faqlisting
+{
+	text-align:left;
+}
