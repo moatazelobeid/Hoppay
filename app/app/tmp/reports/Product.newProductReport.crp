@@ -1,0 +1,790 @@
+<?php $reportFields=array (
+  'Product' => 
+  array (
+    'id' => 
+    array (
+      'Add' => '1',
+      'Position' => '1',
+      'Type' => 'integer',
+      'Length' => '11',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'merchant_product_id' => 
+    array (
+      'Add' => '1',
+      'Position' => '2',
+      'Type' => 'integer',
+      'Length' => '11',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'slug' => 
+    array (
+      'Add' => '1',
+      'Position' => '3',
+      'Type' => 'string',
+      'Length' => '200',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'product_url' => 
+    array (
+      'Add' => '1',
+      'Position' => '4',
+      'Type' => 'string',
+      'Length' => '300',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'category_id' => 
+    array (
+      'Add' => '0',
+      'Position' => '5',
+      'Type' => 'biginteger',
+      'Length' => '20',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'retailer_id' => 
+    array (
+      'Add' => '0',
+      'Position' => '6',
+      'Type' => 'biginteger',
+      'Length' => '11',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'sku' => 
+    array (
+      'Add' => '0',
+      'Position' => '7',
+      'Type' => 'string',
+      'Length' => '50',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'price' => 
+    array (
+      'Add' => '0',
+      'Position' => '8',
+      'Type' => 'float',
+      'Length' => '10',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'price_type' => 
+    array (
+      'Add' => '0',
+      'Position' => '9',
+      'Type' => 'string',
+      'Length' => '10',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'image_url' => 
+    array (
+      'Add' => '0',
+      'Position' => '10',
+      'Type' => 'text',
+      'Length' => '10',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'manufacturer' => 
+    array (
+      'Add' => '0',
+      'Position' => '11',
+      'Type' => 'string',
+      'Length' => '150',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'brand' => 
+    array (
+      'Add' => '0',
+      'Position' => '12',
+      'Type' => 'string',
+      'Length' => '150',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'department' => 
+    array (
+      'Add' => '0',
+      'Position' => '13',
+      'Type' => 'string',
+      'Length' => '150',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'upc' => 
+    array (
+      'Add' => '0',
+      'Position' => '14',
+      'Type' => 'string',
+      'Length' => '50',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'mpn' => 
+    array (
+      'Add' => '0',
+      'Position' => '15',
+      'Type' => 'string',
+      'Length' => '50',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'isbn' => 
+    array (
+      'Add' => '0',
+      'Position' => '16',
+      'Type' => 'string',
+      'Length' => '50',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'shipping_name' => 
+    array (
+      'Add' => '0',
+      'Position' => '17',
+      'Type' => 'string',
+      'Length' => '222',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'shipping_cost' => 
+    array (
+      'Add' => '0',
+      'Position' => '18',
+      'Type' => 'float',
+      'Length' => '10',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'shipping_weight' => 
+    array (
+      'Add' => '0',
+      'Position' => '19',
+      'Type' => 'float',
+      'Length' => '10',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'weight' => 
+    array (
+      'Add' => '0',
+      'Position' => '20',
+      'Type' => 'float',
+      'Length' => '10',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'height' => 
+    array (
+      'Add' => '0',
+      'Position' => '21',
+      'Type' => 'float',
+      'Length' => '10',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'width' => 
+    array (
+      'Add' => '0',
+      'Position' => '22',
+      'Type' => 'float',
+      'Length' => '10',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'product_type' => 
+    array (
+      'Add' => '0',
+      'Position' => '23',
+      'Type' => 'string',
+      'Length' => '50',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'quantity' => 
+    array (
+      'Add' => '0',
+      'Position' => '24',
+      'Type' => 'integer',
+      'Length' => '11',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'availability' => 
+    array (
+      'Add' => '0',
+      'Position' => '25',
+      'Type' => 'string',
+      'Length' => '20',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'condition' => 
+    array (
+      'Add' => '0',
+      'Position' => '26',
+      'Type' => 'string',
+      'Length' => '20',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'tax' => 
+    array (
+      'Add' => '0',
+      'Position' => '27',
+      'Type' => 'string',
+      'Length' => '20',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'bid' => 
+    array (
+      'Add' => '0',
+      'Position' => '28',
+      'Type' => 'string',
+      'Length' => '20',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'promotion_code' => 
+    array (
+      'Add' => '0',
+      'Position' => '29',
+      'Type' => 'string',
+      'Length' => '20',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'status' => 
+    array (
+      'Add' => '0',
+      'Position' => '30',
+      'Type' => 'enum(\'1\',\'0\')',
+      'Length' => '1',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'deleted' => 
+    array (
+      'Add' => '0',
+      'Position' => '31',
+      'Type' => 'enum(\'1\',\'0\')',
+      'Length' => '1',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'created_date' => 
+    array (
+      'Add' => '0',
+      'Position' => '32',
+      'Type' => 'datetime',
+      'Length' => '10',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'last_modified' => 
+    array (
+      'Add' => '0',
+      'Position' => '33',
+      'Type' => 'datetime',
+      'Length' => '10',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'offer_id' => 
+    array (
+      'Add' => '0',
+      'Position' => '34',
+      'Type' => 'integer',
+      'Length' => '11',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+  ),
+  'Product_category' => 
+  array (
+    'id' => 
+    array (
+      'Add' => '0',
+      'Position' => '35',
+      'Type' => 'integer',
+      'Length' => '11',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'slug' => 
+    array (
+      'Add' => '0',
+      'Position' => '36',
+      'Type' => 'string',
+      'Length' => '100',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'image_url' => 
+    array (
+      'Add' => '0',
+      'Position' => '37',
+      'Type' => 'string',
+      'Length' => '150',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'icon_url' => 
+    array (
+      'Add' => '0',
+      'Position' => '38',
+      'Type' => 'string',
+      'Length' => '222',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'parent_id' => 
+    array (
+      'Add' => '0',
+      'Position' => '39',
+      'Type' => 'integer',
+      'Length' => '11',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'lft' => 
+    array (
+      'Add' => '0',
+      'Position' => '40',
+      'Type' => 'integer',
+      'Length' => '11',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'rght' => 
+    array (
+      'Add' => '0',
+      'Position' => '41',
+      'Type' => 'integer',
+      'Length' => '11',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'cat_order' => 
+    array (
+      'Add' => '0',
+      'Position' => '42',
+      'Type' => 'integer',
+      'Length' => '11',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'status' => 
+    array (
+      'Add' => '0',
+      'Position' => '43',
+      'Type' => 'integer',
+      'Length' => '11',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+  ),
+  'Offer' => 
+  array (
+    'id' => 
+    array (
+      'Add' => '0',
+      'Position' => '44',
+      'Type' => 'integer',
+      'Length' => '11',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'merchant_id' => 
+    array (
+      'Add' => '0',
+      'Position' => '45',
+      'Type' => 'integer',
+      'Length' => '11',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'offer_title' => 
+    array (
+      'Add' => '0',
+      'Position' => '46',
+      'Type' => 'string',
+      'Length' => '222',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'offer_image' => 
+    array (
+      'Add' => '0',
+      'Position' => '47',
+      'Type' => 'string',
+      'Length' => '222',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'offer_desc' => 
+    array (
+      'Add' => '0',
+      'Position' => '48',
+      'Type' => 'string',
+      'Length' => '222',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'offer_type' => 
+    array (
+      'Add' => '0',
+      'Position' => '49',
+      'Type' => 'enum(\'1\',\'2\',\'3\')',
+      'Length' => '1',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'other_offer_type' => 
+    array (
+      'Add' => '0',
+      'Position' => '50',
+      'Type' => 'string',
+      'Length' => '222',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'discount' => 
+    array (
+      'Add' => '0',
+      'Position' => '51',
+      'Type' => 'float',
+      'Length' => '10',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'ccode' => 
+    array (
+      'Add' => '0',
+      'Position' => '52',
+      'Type' => 'string',
+      'Length' => '222',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'status' => 
+    array (
+      'Add' => '0',
+      'Position' => '53',
+      'Type' => 'integer',
+      'Length' => '11',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'created_date' => 
+    array (
+      'Add' => '0',
+      'Position' => '54',
+      'Type' => 'datetime',
+      'Length' => '10',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'modified_date' => 
+    array (
+      'Add' => '0',
+      'Position' => '55',
+      'Type' => 'timestamp',
+      'Length' => '10',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'start_date' => 
+    array (
+      'Add' => '0',
+      'Position' => '56',
+      'Type' => 'datetime',
+      'Length' => '10',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'end_date' => 
+    array (
+      'Add' => '0',
+      'Position' => '57',
+      'Type' => 'datetime',
+      'Length' => '10',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+  ),
+  'Product_brand' => 
+  array (
+    'id' => 
+    array (
+      'Add' => '0',
+      'Position' => '58',
+      'Type' => 'integer',
+      'Length' => '11',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'slug' => 
+    array (
+      'Add' => '0',
+      'Position' => '59',
+      'Type' => 'string',
+      'Length' => '50',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'image_url' => 
+    array (
+      'Add' => '0',
+      'Position' => '60',
+      'Type' => 'string',
+      'Length' => '150',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'order' => 
+    array (
+      'Add' => '0',
+      'Position' => '61',
+      'Type' => 'integer',
+      'Length' => '11',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'created_date' => 
+    array (
+      'Add' => '0',
+      'Position' => '62',
+      'Type' => 'date',
+      'Length' => '10',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'status' => 
+    array (
+      'Add' => '0',
+      'Position' => '63',
+      'Type' => 'integer',
+      'Length' => '11',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+  ),
+  'Merchant' => 
+  array (
+    'id' => 
+    array (
+      'Add' => '0',
+      'Position' => '64',
+      'Type' => 'integer',
+      'Length' => '11',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'url' => 
+    array (
+      'Add' => '0',
+      'Position' => '65',
+      'Type' => 'string',
+      'Length' => '200',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'website_name' => 
+    array (
+      'Add' => '0',
+      'Position' => '66',
+      'Type' => 'string',
+      'Length' => '200',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'first_name' => 
+    array (
+      'Add' => '0',
+      'Position' => '67',
+      'Type' => 'string',
+      'Length' => '100',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'last_name' => 
+    array (
+      'Add' => '0',
+      'Position' => '68',
+      'Type' => 'string',
+      'Length' => '70',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'phone' => 
+    array (
+      'Add' => '0',
+      'Position' => '69',
+      'Type' => 'string',
+      'Length' => '15',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'image_url' => 
+    array (
+      'Add' => '0',
+      'Position' => '70',
+      'Type' => 'string',
+      'Length' => '200',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'adress' => 
+    array (
+      'Add' => '0',
+      'Position' => '71',
+      'Type' => 'string',
+      'Length' => '200',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'city' => 
+    array (
+      'Add' => '0',
+      'Position' => '72',
+      'Type' => 'string',
+      'Length' => '30',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'state' => 
+    array (
+      'Add' => '0',
+      'Position' => '73',
+      'Type' => 'string',
+      'Length' => '20',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'zip_code' => 
+    array (
+      'Add' => '1',
+      'Position' => '74',
+      'Type' => 'integer',
+      'Length' => '11',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'country' => 
+    array (
+      'Add' => '1',
+      'Position' => '75',
+      'Type' => 'string',
+      'Length' => '20',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+    'merchant_id' => 
+    array (
+      'Add' => '1',
+      'Position' => '76',
+      'Type' => 'integer',
+      'Length' => '11',
+      'Not' => '0',
+      'Filter' => '=',
+      'Example' => '',
+    ),
+  ),
+  'Report' => 
+  array (
+    'Logical' => 'AND',
+    'OrderDirection' => 'ASC',
+    'OrderBy1' => 'Product_brand.id',
+    'OrderBy2' => 'Product_brand.slug',
+    'ReportName' => 'newProductReport',
+    'Style' => 'executive',
+    'Output' => 'html',
+    'ShowRecordCounter' => '1',
+    'SaveReport' => '1',
+    'OneToManyOption' => '',
+  ),
+); ?>
