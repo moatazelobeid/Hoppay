@@ -1,0 +1,242 @@
+.row{
+  max-width:85rem ;
+}
+.maxwidth,.contain-to-grid .maxwidth{
+  max-width:100%;
+}
+.maxwidth .columns{
+padding:0 !important;
+
+}
+.accordion dd>a {
+background: #0E1994;
+color: #FCFAFA;
+padding: 6px;
+display: block;
+font-family: "Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+font-size: 1rem;
+border-radius: 5px;
+text-align: center;
+font-weight: bold;
+border: 1px solid;
+}
+.accordion dd>a:hover {
+background: #7760F0;
+}
+.accordion dd.active>a {
+background: #0E1994;
+}
+.accordion .side-nav{
+padding: 0;
+}
+.accordion .side-nav li{
+	margin-bottom: 5px;
+}
+.accordion .content {
+
+padding: 6px 14px 6px 14px;
+}
+.accordion .side-nav li a:not(.button) {
+display: block;
+color: #FDFDFD;
+background: #675DDB;
+border-radius: 5px;
+padding: 3px;
+text-align: center;
+font-weight: 700;
+}
+
+footer{
+	position: fixed;
+    bottom: 0;
+    
+}
+footer .row{
+
+border-top: 1px solid #C7C7C7;
+background: #F1F1F1;
+box-shadow: 1px 1px 2px #666;
+margin-left:0px !important;
+margin-right:0px !important;
+
+}
+footer .row p{
+	font-size: 11px;
+	color: #D1D0D0;
+	padding-top: 4px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+.button{
+	padding: 10px 25px 10px 25px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+#badMessage{
+	
+	font-size:12px;
+	color:#f00;
+	border:1px solid;
+	padding:5px 2px;
+	text-align: center;
+	margin-top:5px;
+	margin-bottom: 5px;
+}
+#msgMessage{
+	
+	font-size:12px;
+	color:#478647;
+	border:1px solid;
+	padding:5px 2px;
+	text-align: center;
+	margin-top:5px;
+	margin-bottom: 5px;
+}
+.login fieldset{
+
+	box-shadow: 2px 2px 5px #666;
+}
+.login fieldset legend{
+	text-align: center;	
+	font-size:20px;
+	color: #A79AB3;
+}
+.login form{
+	margin-bottom: 0;
+}
+.sub-top-bar{
+	background: #666;
+	height:35px;
+}
+.sub-top-bar .top-bar-section li:not(.has-form) a:not(.button) {
+
+background:  #666;
+height:35px;
+line-height:35px
+}
+.sub-top-bar .top-bar-section li:not(.has-form) a:not(.button):hover {
+background: #272727;
+
+}
+.sub-top-bar .top-bar-section li.active:not(.has-form) a:not(.button){
+	background:#008cba;
+	height:35px;
+    line-height:35px
+}
+.sub-top-bar .top-bar-section li.active:not(.has-form) a:not(.button):hover{
+	background:#F16089;;	
+}
+.sub-top-bar .top-bar-section li.active:not(.has-form) ul li.active:not(.has-form) a:not(.button){
+	background:#5CB9D8;;
+}
+.sub-top-bar .top-bar-section .has-dropdown>a:after{
+	top:17.5px;
+}
+.sub-top-bar .top-bar-section .has-dropdown .dropdown li.has-dropdown>a:after{
+	line-height:0.2;
+}
+.sub-top-bar ul li{
+	height:35px;
+}
+.sub-top-bar .toggle-topbar.menu-icon{
+	margin-top:-20px;
+}
+.sub-top-bar.expanded .top-bar-section li:not(.has-form) a:not(.button){
+	line-height:16px
+}
+.sub-top-bar .top-bar-section .left li .dropdown li .dropdown{
+	border:1px solid #000;
+}
+.page_title h4{
+	margin-top: 0.5rem;
+	margin-bottom: 0.1rem;
+	color:#927E7E;
+}
+.page_title .button{
+	padding:5px;
+	padding: 5px 18px;
+    font-weight: 500;
+}
+.page_title hr{
+	margin:0;
+	color:#927E7E;
+}
+.inactive{
+	color:#f00;
+}
+.contain-to-grid {
+height: 35px;
+box-shadow: 0px 2px 5px #8F7B7B;
+}
+.sticky.fixed ul.title-area li h1 a{
+	display:block !important;
+	margin-top:-5px;
+}
+.sticky.fixed ul.right li.admin_set{
+	display:block !important;
+
+}
+.preview-scale { 
+        color: #888;
+        font-size: 12px; 
+        margin-top: 5px;
+      }
+
+      .step {
+        display: inline-block;
+        line-height: 1;
+        width: 10%;
+        padding: 0px 8px;
+      }
+
+      
+      .size-12 { font-size: 12px; }
+      
+      .size-14 { font-size: 14px; }
+      
+      .size-16 { font-size: 16px; }
+      
+      .size-18 { font-size: 18px; }
+      
+      .size-21 { font-size: 21px; }
+      
+      .size-24 { font-size: 24px; }
+      
+      .size-36 { font-size: 36px; }
+      
+      .size-48 { font-size: 48px; }
+      
+      .size-60 { font-size: 60px; }
+      
+      .size-72 { font-size: 72px; }
+      
+
+      .usage { margin-top: 10px; }
+
+      .usage input {
+        font-family: monospace;
+        margin-right: 3px;
+        padding: 2px 5px;
+        text-align: center;
+      }
+
+      .usage .point { width: 150px; }
+
+      .usage .class { width: 250px; }
+     
+      .bottom-0{
+      	margin-bottom: 0px !important;
+		margin-top: 5px !important;
+		padding: 5px !important;
+		height: 27px !important;
+      }
+      .bottom-5{
+      	margin-bottom: 5px !important; 
+      }
+
+      .search{
+      	padding: 5px !important;
+		margin-top: 3px !important;
+		font-weight: normal !important;
+      }
+      

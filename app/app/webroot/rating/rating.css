@@ -1,0 +1,37 @@
+.ratings,.showratings {
+           overflow: visible;
+            padding: 5px 0px;
+            position: relative;
+           width: 70px;
+            height:20px;
+        }
+.ratings_stars {
+           background: url('star_inactive.png') no-repeat;
+float: left;
+height: 25px;
+padding: 0px;
+width: 14px;
+background-size: 13px 13px !important;
+        }
+.ratings_vote {
+            background: url('star_voted.png') no-repeat;
+         background-size:13px 13px !important;
+        }
+.ratings_over {
+            background: url('staractive.png') no-repeat;
+         background-size: 13px 13px !important;
+        }
+		
+.total_votes {  
+    background: #eaeaea;  
+    top: 58px;  
+    left: 0;  
+    padding: 5px;  
+    position:   absolute;  
+}  
+.product{  
+    font: 10px verdana, sans-serif;  
+    margin: 0 auto 40px auto;  
+    width: 180px; 
+	height:200px; 
+}  

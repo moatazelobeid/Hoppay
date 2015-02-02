@@ -1,0 +1,598 @@
+[16-Jun-2014 16:10:24 UTC] PHP Warning:  include(/home/content/m/a/a/maasinfotech/html/menacompare/lib/Cake/Error/ErrorHandler.php): failed to open stream: No such file or directory in /home/moatazelobeid/public_html/demo1/lib/Cake/Core/App.php on line 547
+[16-Jun-2014 16:10:24 UTC] PHP Warning:  include(): Failed opening '/home/content/m/a/a/maasinfotech/html/menacompare/lib/Cake/Error/ErrorHandler.php' for inclusion (include_path='/home/moatazelobeid/public_html/demo1/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/moatazelobeid/public_html/demo1/lib/Cake/Core/App.php on line 547
+[16-Jun-2014 16:10:24 UTC] PHP Warning:  set_error_handler() expects the argument (ErrorHandler::handleError) to be a valid callback in /home/moatazelobeid/public_html/demo1/lib/Cake/Core/Configure.php on line 441
+[16-Jun-2014 16:10:24 UTC] PHP Warning:  include(/home/content/m/a/a/maasinfotech/html/menacompare/lib/Cake/Error/ErrorHandler.php): failed to open stream: No such file or directory in /home/moatazelobeid/public_html/demo1/lib/Cake/Core/App.php on line 547
+[16-Jun-2014 16:10:24 UTC] PHP Warning:  include(): Failed opening '/home/content/m/a/a/maasinfotech/html/menacompare/lib/Cake/Error/ErrorHandler.php' for inclusion (include_path='/home/moatazelobeid/public_html/demo1/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/moatazelobeid/public_html/demo1/lib/Cake/Core/App.php on line 547
+[16-Jun-2014 16:10:24 UTC] PHP Warning:  set_exception_handler() expects the argument (ErrorHandler::handleException) to be a valid callback in /home/moatazelobeid/public_html/demo1/lib/Cake/Core/Configure.php on line 444
+[16-Jun-2014 16:10:24 UTC] PHP Warning:  include(/home/content/m/a/a/maasinfotech/html/menacompare/lib/Cake/Log/CakeLog.php): failed to open stream: No such file or directory in /home/moatazelobeid/public_html/demo1/lib/Cake/Core/App.php on line 547
+[16-Jun-2014 16:10:24 UTC] PHP Warning:  include(): Failed opening '/home/content/m/a/a/maasinfotech/html/menacompare/lib/Cake/Log/CakeLog.php' for inclusion (include_path='/home/moatazelobeid/public_html/demo1/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/moatazelobeid/public_html/demo1/lib/Cake/Core/App.php on line 547
+[16-Jun-2014 16:10:24 UTC] PHP Fatal error:  Class 'CakeLog' not found in /home/moatazelobeid/public_html/demo1/app/Config/bootstrap.php on line 100
+[16-Jun-2014 16:10:29 UTC] PHP Warning:  include(/home/content/m/a/a/maasinfotech/html/menacompare/lib/Cake/Error/ErrorHandler.php): failed to open stream: No such file or directory in /home/moatazelobeid/public_html/demo1/lib/Cake/Core/App.php on line 547
+[16-Jun-2014 16:10:29 UTC] PHP Warning:  include(): Failed opening '/home/content/m/a/a/maasinfotech/html/menacompare/lib/Cake/Error/ErrorHandler.php' for inclusion (include_path='/home/moatazelobeid/public_html/demo1/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/moatazelobeid/public_html/demo1/lib/Cake/Core/App.php on line 547
+[16-Jun-2014 16:10:29 UTC] PHP Warning:  set_error_handler() expects the argument (ErrorHandler::handleError) to be a valid callback in /home/moatazelobeid/public_html/demo1/lib/Cake/Core/Configure.php on line 441
+[16-Jun-2014 16:10:29 UTC] PHP Warning:  include(/home/content/m/a/a/maasinfotech/html/menacompare/lib/Cake/Error/ErrorHandler.php): failed to open stream: No such file or directory in /home/moatazelobeid/public_html/demo1/lib/Cake/Core/App.php on line 547
+[16-Jun-2014 16:10:29 UTC] PHP Warning:  include(): Failed opening '/home/content/m/a/a/maasinfotech/html/menacompare/lib/Cake/Error/ErrorHandler.php' for inclusion (include_path='/home/moatazelobeid/public_html/demo1/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/moatazelobeid/public_html/demo1/lib/Cake/Core/App.php on line 547
+[16-Jun-2014 16:10:29 UTC] PHP Warning:  set_exception_handler() expects the argument (ErrorHandler::handleException) to be a valid callback in /home/moatazelobeid/public_html/demo1/lib/Cake/Core/Configure.php on line 444
+[16-Jun-2014 16:10:29 UTC] PHP Warning:  include(/home/content/m/a/a/maasinfotech/html/menacompare/lib/Cake/Log/CakeLog.php): failed to open stream: No such file or directory in /home/moatazelobeid/public_html/demo1/lib/Cake/Core/App.php on line 547
+[16-Jun-2014 16:10:29 UTC] PHP Warning:  include(): Failed opening '/home/content/m/a/a/maasinfotech/html/menacompare/lib/Cake/Log/CakeLog.php' for inclusion (include_path='/home/moatazelobeid/public_html/demo1/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/moatazelobeid/public_html/demo1/lib/Cake/Core/App.php on line 547
+[16-Jun-2014 16:10:29 UTC] PHP Fatal error:  Class 'CakeLog' not found in /home/moatazelobeid/public_html/demo1/app/Config/bootstrap.php on line 100
+[16-Jun-2014 16:11:18 UTC] PHP Warning:  include(/home/content/m/a/a/maasinfotech/html/menacompare/lib/Cake/Error/ErrorHandler.php): failed to open stream: No such file or directory in /home/moatazelobeid/public_html/demo/lib/Cake/Core/App.php on line 547
+[16-Jun-2014 16:11:18 UTC] PHP Warning:  include(): Failed opening '/home/content/m/a/a/maasinfotech/html/menacompare/lib/Cake/Error/ErrorHandler.php' for inclusion (include_path='/home/moatazelobeid/public_html/demo/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/moatazelobeid/public_html/demo/lib/Cake/Core/App.php on line 547
+[16-Jun-2014 16:11:18 UTC] PHP Warning:  set_error_handler() expects the argument (ErrorHandler::handleError) to be a valid callback in /home/moatazelobeid/public_html/demo/lib/Cake/Core/Configure.php on line 441
+[16-Jun-2014 16:11:18 UTC] PHP Warning:  include(/home/content/m/a/a/maasinfotech/html/menacompare/lib/Cake/Error/ErrorHandler.php): failed to open stream: No such file or directory in /home/moatazelobeid/public_html/demo/lib/Cake/Core/App.php on line 547
+[16-Jun-2014 16:11:18 UTC] PHP Warning:  include(): Failed opening '/home/content/m/a/a/maasinfotech/html/menacompare/lib/Cake/Error/ErrorHandler.php' for inclusion (include_path='/home/moatazelobeid/public_html/demo/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/moatazelobeid/public_html/demo/lib/Cake/Core/App.php on line 547
+[16-Jun-2014 16:11:18 UTC] PHP Warning:  set_exception_handler() expects the argument (ErrorHandler::handleException) to be a valid callback in /home/moatazelobeid/public_html/demo/lib/Cake/Core/Configure.php on line 444
+[16-Jun-2014 16:11:18 UTC] PHP Warning:  include(/home/content/m/a/a/maasinfotech/html/menacompare/lib/Cake/Log/CakeLog.php): failed to open stream: No such file or directory in /home/moatazelobeid/public_html/demo/lib/Cake/Core/App.php on line 547
+[16-Jun-2014 16:11:18 UTC] PHP Warning:  include(): Failed opening '/home/content/m/a/a/maasinfotech/html/menacompare/lib/Cake/Log/CakeLog.php' for inclusion (include_path='/home/moatazelobeid/public_html/demo/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/moatazelobeid/public_html/demo/lib/Cake/Core/App.php on line 547
+[16-Jun-2014 16:11:18 UTC] PHP Fatal error:  Class 'CakeLog' not found in /home/moatazelobeid/public_html/demo/app/Config/bootstrap.php on line 100
+[16-Jun-2014 16:11:20 UTC] PHP Warning:  include(/home/content/m/a/a/maasinfotech/html/menacompare/lib/Cake/Error/ErrorHandler.php): failed to open stream: No such file or directory in /home/moatazelobeid/public_html/demo/lib/Cake/Core/App.php on line 547
+[16-Jun-2014 16:11:20 UTC] PHP Warning:  include(): Failed opening '/home/content/m/a/a/maasinfotech/html/menacompare/lib/Cake/Error/ErrorHandler.php' for inclusion (include_path='/home/moatazelobeid/public_html/demo/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/moatazelobeid/public_html/demo/lib/Cake/Core/App.php on line 547
+[16-Jun-2014 16:11:20 UTC] PHP Warning:  set_error_handler() expects the argument (ErrorHandler::handleError) to be a valid callback in /home/moatazelobeid/public_html/demo/lib/Cake/Core/Configure.php on line 441
+[16-Jun-2014 16:11:20 UTC] PHP Warning:  include(/home/content/m/a/a/maasinfotech/html/menacompare/lib/Cake/Error/ErrorHandler.php): failed to open stream: No such file or directory in /home/moatazelobeid/public_html/demo/lib/Cake/Core/App.php on line 547
+[16-Jun-2014 16:11:20 UTC] PHP Warning:  include(): Failed opening '/home/content/m/a/a/maasinfotech/html/menacompare/lib/Cake/Error/ErrorHandler.php' for inclusion (include_path='/home/moatazelobeid/public_html/demo/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/moatazelobeid/public_html/demo/lib/Cake/Core/App.php on line 547
+[16-Jun-2014 16:11:20 UTC] PHP Warning:  set_exception_handler() expects the argument (ErrorHandler::handleException) to be a valid callback in /home/moatazelobeid/public_html/demo/lib/Cake/Core/Configure.php on line 444
+[16-Jun-2014 16:11:20 UTC] PHP Warning:  include(/home/content/m/a/a/maasinfotech/html/menacompare/lib/Cake/Log/CakeLog.php): failed to open stream: No such file or directory in /home/moatazelobeid/public_html/demo/lib/Cake/Core/App.php on line 547
+[16-Jun-2014 16:11:20 UTC] PHP Warning:  include(): Failed opening '/home/content/m/a/a/maasinfotech/html/menacompare/lib/Cake/Log/CakeLog.php' for inclusion (include_path='/home/moatazelobeid/public_html/demo/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/moatazelobeid/public_html/demo/lib/Cake/Core/App.php on line 547
+[16-Jun-2014 16:11:20 UTC] PHP Fatal error:  Class 'CakeLog' not found in /home/moatazelobeid/public_html/demo/app/Config/bootstrap.php on line 100
+[16-Jun-2014 16:12:04 UTC] PHP Warning:  include(/home/content/m/a/a/maasinfotech/html/menacompare/lib/Cake/Error/ErrorHandler.php): failed to open stream: No such file or directory in /home/moatazelobeid/public_html/demo/lib/Cake/Core/App.php on line 547
+[16-Jun-2014 16:12:04 UTC] PHP Warning:  include(): Failed opening '/home/content/m/a/a/maasinfotech/html/menacompare/lib/Cake/Error/ErrorHandler.php' for inclusion (include_path='/home/moatazelobeid/public_html/demo/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/moatazelobeid/public_html/demo/lib/Cake/Core/App.php on line 547
+[16-Jun-2014 16:12:04 UTC] PHP Warning:  set_error_handler() expects the argument (ErrorHandler::handleError) to be a valid callback in /home/moatazelobeid/public_html/demo/lib/Cake/Core/Configure.php on line 441
+[16-Jun-2014 16:12:04 UTC] PHP Warning:  include(/home/content/m/a/a/maasinfotech/html/menacompare/lib/Cake/Error/ErrorHandler.php): failed to open stream: No such file or directory in /home/moatazelobeid/public_html/demo/lib/Cake/Core/App.php on line 547
+[16-Jun-2014 16:12:04 UTC] PHP Warning:  include(): Failed opening '/home/content/m/a/a/maasinfotech/html/menacompare/lib/Cake/Error/ErrorHandler.php' for inclusion (include_path='/home/moatazelobeid/public_html/demo/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/moatazelobeid/public_html/demo/lib/Cake/Core/App.php on line 547
+[16-Jun-2014 16:12:04 UTC] PHP Warning:  set_exception_handler() expects the argument (ErrorHandler::handleException) to be a valid callback in /home/moatazelobeid/public_html/demo/lib/Cake/Core/Configure.php on line 444
+[16-Jun-2014 16:12:04 UTC] PHP Warning:  include(/home/content/m/a/a/maasinfotech/html/menacompare/lib/Cake/Log/CakeLog.php): failed to open stream: No such file or directory in /home/moatazelobeid/public_html/demo/lib/Cake/Core/App.php on line 547
+[16-Jun-2014 16:12:04 UTC] PHP Warning:  include(): Failed opening '/home/content/m/a/a/maasinfotech/html/menacompare/lib/Cake/Log/CakeLog.php' for inclusion (include_path='/home/moatazelobeid/public_html/demo/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/moatazelobeid/public_html/demo/lib/Cake/Core/App.php on line 547
+[16-Jun-2014 16:12:04 UTC] PHP Fatal error:  Class 'CakeLog' not found in /home/moatazelobeid/public_html/demo/app/Config/bootstrap.php on line 100
+[16-Jun-2014 16:15:13 UTC] PHP Warning:  include(/home/content/m/a/a/maasinfotech/html/menacompare/lib/Cake/Error/ErrorHandler.php): failed to open stream: No such file or directory in /home/moatazelobeid/public_html/demo/lib/Cake/Core/App.php on line 547
+[16-Jun-2014 16:15:13 UTC] PHP Warning:  include(): Failed opening '/home/content/m/a/a/maasinfotech/html/menacompare/lib/Cake/Error/ErrorHandler.php' for inclusion (include_path='/home/moatazelobeid/public_html/demo/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/moatazelobeid/public_html/demo/lib/Cake/Core/App.php on line 547
+[16-Jun-2014 16:15:13 UTC] PHP Warning:  set_error_handler() expects the argument (ErrorHandler::handleError) to be a valid callback in /home/moatazelobeid/public_html/demo/lib/Cake/Core/Configure.php on line 441
+[16-Jun-2014 16:15:13 UTC] PHP Warning:  include(/home/content/m/a/a/maasinfotech/html/menacompare/lib/Cake/Error/ErrorHandler.php): failed to open stream: No such file or directory in /home/moatazelobeid/public_html/demo/lib/Cake/Core/App.php on line 547
+[16-Jun-2014 16:15:13 UTC] PHP Warning:  include(): Failed opening '/home/content/m/a/a/maasinfotech/html/menacompare/lib/Cake/Error/ErrorHandler.php' for inclusion (include_path='/home/moatazelobeid/public_html/demo/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/moatazelobeid/public_html/demo/lib/Cake/Core/App.php on line 547
+[16-Jun-2014 16:15:13 UTC] PHP Warning:  set_exception_handler() expects the argument (ErrorHandler::handleException) to be a valid callback in /home/moatazelobeid/public_html/demo/lib/Cake/Core/Configure.php on line 444
+[16-Jun-2014 16:15:13 UTC] PHP Warning:  include(/home/content/m/a/a/maasinfotech/html/menacompare/lib/Cake/Log/CakeLog.php): failed to open stream: No such file or directory in /home/moatazelobeid/public_html/demo/lib/Cake/Core/App.php on line 547
+[16-Jun-2014 16:15:13 UTC] PHP Warning:  include(): Failed opening '/home/content/m/a/a/maasinfotech/html/menacompare/lib/Cake/Log/CakeLog.php' for inclusion (include_path='/home/moatazelobeid/public_html/demo/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/moatazelobeid/public_html/demo/lib/Cake/Core/App.php on line 547
+[16-Jun-2014 16:15:13 UTC] PHP Fatal error:  Class 'CakeLog' not found in /home/moatazelobeid/public_html/demo/app/Config/bootstrap.php on line 100
+[16-Jun-2014 16:15:49 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 87 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[16-Jun-2014 16:15:59 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 78 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[16-Jun-2014 16:16:28 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 3 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[16-Jun-2014 16:16:42 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 3 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[16-Jun-2014 16:16:52 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 87 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[16-Jun-2014 16:16:52 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 3 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[16-Jun-2014 16:17:42 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 85 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[16-Jun-2014 16:17:42 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 78 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[16-Jun-2014 16:17:42 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 512 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[16-Jun-2014 16:18:14 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 1 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[16-Jun-2014 16:32:20 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 82 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[16-Jun-2014 16:32:47 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 1 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[16-Jun-2014 16:32:53 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 86 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[16-Jun-2014 16:33:40 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 79 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[16-Jun-2014 16:34:24 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 79 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[16-Jun-2014 16:34:31 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 86 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[16-Jun-2014 16:34:49 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 512 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[16-Jun-2014 16:36:38 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[17-Jun-2014 00:07:00 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 83 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[17-Jun-2014 00:07:09 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 77 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[17-Jun-2014 04:50:18 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 76 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[17-Jun-2014 04:51:35 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 78 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[17-Jun-2014 05:18:55 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[17-Jun-2014 05:20:13 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 84 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[17-Jun-2014 05:20:17 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 77 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[17-Jun-2014 05:20:17 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[17-Jun-2014 05:20:22 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 77 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[17-Jun-2014 05:20:22 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[17-Jun-2014 05:20:23 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 72 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/DboSource.php on line 1493
+[17-Jun-2014 05:20:29 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 72 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/DboSource.php on line 1493
+[17-Jun-2014 05:20:29 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 85 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[17-Jun-2014 05:20:29 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[17-Jun-2014 05:20:32 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[17-Jun-2014 05:20:32 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 85 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[17-Jun-2014 05:22:27 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 82 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[17-Jun-2014 05:25:20 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 82 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[17-Jun-2014 05:26:38 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 85 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[17-Jun-2014 09:13:19 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 4 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[17-Jun-2014 09:33:38 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 154 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[17-Jun-2014 10:38:31 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 84 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[17-Jun-2014 10:51:05 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/DboSource.php on line 460
+[17-Jun-2014 10:51:43 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 82 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[17-Jun-2014 10:51:45 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 512 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[17-Jun-2014 10:52:07 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 79 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[17-Jun-2014 10:52:14 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[17-Jun-2014 10:52:19 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 79 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[17-Jun-2014 10:52:38 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 4 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[17-Jun-2014 10:53:16 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 512 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[17-Jun-2014 10:53:44 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 84 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[17-Jun-2014 10:55:51 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 2 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[17-Jun-2014 10:56:03 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 1 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[17-Jun-2014 10:57:57 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 2 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[17-Jun-2014 11:01:28 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 15831905 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Utility/String.php on line 243
+[17-Jun-2014 11:01:44 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 15831493 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Utility/String.php on line 243
+[17-Jun-2014 11:02:57 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 23314637 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/basics.php on line 200
+[17-Jun-2014 11:03:09 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 23314637 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/basics.php on line 200
+[17-Jun-2014 11:04:05 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 23314637 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/basics.php on line 200
+[19-Jun-2014 12:23:34 UTC] PHP Warning:  Unterminated comment starting line 349 in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 349
+[19-Jun-2014 12:23:34 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 401
+[19-Jun-2014 15:31:00 UTC] PHP Warning:  Unterminated comment starting line 600 in /home/moatazelobeid/public_html/demo/app/Controller/NewsletterController.php on line 600
+[19-Jun-2014 15:31:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/Controller/NewsletterController.php on line 602
+[21-Jun-2014 10:21:28 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/moatazelobeid/public_html/demo/app/Controller/HomesController.php on line 221
+[21-Jun-2014 10:21:28 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/moatazelobeid/public_html/demo/app/Controller/HomesController.php on line 221
+[21-Jun-2014 16:31:26 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[21-Jun-2014 16:31:36 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 80 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[21-Jun-2014 16:31:49 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 85 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[24-Jun-2014 13:09:03 UTC] PHP Warning:  Unterminated comment starting line 837 in /home/moatazelobeid/public_html/demo/app/View/Products/compare.ctp on line 837
+[24-Jun-2014 13:20:33 UTC] PHP Warning:  Unterminated comment starting line 836 in /home/moatazelobeid/public_html/demo/app/View/Products/compare.ctp on line 836
+[24-Jun-2014 13:21:56 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 85 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[24-Jun-2014 13:23:09 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 78 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[24-Jun-2014 13:23:12 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 78 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[24-Jun-2014 13:23:16 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 512 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[24-Jun-2014 13:23:24 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 78 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[24-Jun-2014 13:23:28 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 78 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[24-Jun-2014 13:23:31 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 78 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[24-Jun-2014 13:25:22 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/moatazelobeid/public_html/demo/app/View/Products/compare.ctp on line 506
+[24-Jun-2014 13:25:30 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 76 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[24-Jun-2014 13:25:42 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 76 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[24-Jun-2014 13:25:48 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 161 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[24-Jun-2014 13:26:05 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 76 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[24-Jun-2014 13:26:17 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 161 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[24-Jun-2014 13:26:24 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 161 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[24-Jun-2014 13:39:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/View/Products/compare.ctp on line 900
+[24-Jun-2014 14:00:27 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/moatazelobeid/public_html/demo/app/View/Products/compare.ctp on line 918
+[24-Jun-2014 14:00:30 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/moatazelobeid/public_html/demo/app/View/Products/compare.ctp on line 918
+[24-Jun-2014 14:00:32 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/moatazelobeid/public_html/demo/app/View/Products/compare.ctp on line 918
+[24-Jun-2014 14:00:35 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/moatazelobeid/public_html/demo/app/View/Products/compare.ctp on line 918
+[24-Jun-2014 14:01:38 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/moatazelobeid/public_html/demo/app/View/Products/compare.ctp on line 918
+[24-Jun-2014 14:01:41 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/moatazelobeid/public_html/demo/app/View/Products/compare.ctp on line 918
+[24-Jun-2014 14:01:43 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/moatazelobeid/public_html/demo/app/View/Products/compare.ctp on line 918
+[24-Jun-2014 14:01:46 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/moatazelobeid/public_html/demo/app/View/Products/compare.ctp on line 918
+[24-Jun-2014 14:44:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/View/Products/compare.ctp on line 915
+[25-Jun-2014 06:00:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/View/Products/compare.ctp on line 940
+[25-Jun-2014 07:48:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1874
+[25-Jun-2014 07:50:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/View/Products/compare.ctp on line 932
+[25-Jun-2014 08:09:31 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/moatazelobeid/public_html/demo/app/View/Products/compare.ctp on line 945
+[25-Jun-2014 08:09:33 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/moatazelobeid/public_html/demo/app/View/Products/compare.ctp on line 945
+[25-Jun-2014 08:09:36 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/moatazelobeid/public_html/demo/app/View/Products/compare.ctp on line 945
+[25-Jun-2014 08:09:39 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/moatazelobeid/public_html/demo/app/View/Products/compare.ctp on line 945
+[25-Jun-2014 09:46:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/View/Products/compare.ctp on line 941
+[25-Jun-2014 10:06:52 UTC] PHP Parse error:  syntax error, unexpected '' in /home/moatazelobeid/public_html/demo/app/View/Products/compare.ctp on line 510
+[25-Jun-2014 12:02:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/View/Products/compare.ctp on line 955
+[25-Jun-2014 15:18:13 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE) in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1281
+[25-Jun-2014 15:18:45 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE) in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1281
+[25-Jun-2014 15:18:49 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE) in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1281
+[26-Jun-2014 13:19:28 UTC] PHP Fatal error:  Call to undefined method CtrlComponent::pluralize() in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1283
+[26-Jun-2014 13:25:12 UTC] PHP Fatal error:  Call to undefined method CtrlComponent::pluralize() in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1283
+[26-Jun-2014 13:25:48 UTC] PHP Fatal error:  Call to undefined method CtrlComponent::pluralize() in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1283
+[26-Jun-2014 13:26:07 UTC] PHP Fatal error:  Call to undefined method CtrlComponent::pluralize() in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1283
+[26-Jun-2014 13:26:57 UTC] PHP Fatal error:  Call to undefined method CtrlComponent::pluralize() in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1283
+[26-Jun-2014 13:27:08 UTC] PHP Fatal error:  Call to undefined method CtrlComponent::pluralize() in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1283
+[26-Jun-2014 13:27:15 UTC] PHP Fatal error:  Call to undefined method CtrlComponent::pluralize() in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1283
+[26-Jun-2014 13:27:39 UTC] PHP Fatal error:  Call to undefined method CtrlComponent::pluralize() in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1283
+[26-Jun-2014 13:28:17 UTC] PHP Fatal error:  Call to undefined method CtrlComponent::pluralize() in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1283
+[26-Jun-2014 13:28:44 UTC] PHP Fatal error:  Call to undefined method CtrlComponent::pluralize() in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1283
+[26-Jun-2014 13:29:39 UTC] PHP Fatal error:  Call to undefined method CtrlComponent::pluralize() in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1283
+[26-Jun-2014 13:29:51 UTC] PHP Fatal error:  Call to undefined method CtrlComponent::pluralize() in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1283
+[26-Jun-2014 13:30:06 UTC] PHP Fatal error:  Call to undefined method CtrlComponent::pluralize() in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1283
+[26-Jun-2014 13:30:49 UTC] PHP Fatal error:  Call to undefined method CtrlComponent::pluralize() in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1283
+[26-Jun-2014 13:32:15 UTC] PHP Fatal error:  Call to undefined method CtrlComponent::pluralize() in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1283
+[26-Jun-2014 13:33:30 UTC] PHP Fatal error:  Call to undefined method CtrlComponent::pluralize() in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1283
+[26-Jun-2014 13:34:22 UTC] PHP Fatal error:  Call to undefined method CtrlComponent::pluralize() in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1283
+[26-Jun-2014 13:36:53 UTC] PHP Fatal error:  Call to undefined method CtrlComponent::pluralize() in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1283
+[27-Jun-2014 05:59:16 UTC] PHP Fatal error:  Call to undefined method CtrlComponent::titleize() in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1322
+[27-Jun-2014 05:59:34 UTC] PHP Fatal error:  Call to undefined method CtrlComponent::titleize() in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1322
+[27-Jun-2014 06:00:00 UTC] PHP Fatal error:  Call to undefined method CtrlComponent::titleize() in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1322
+[27-Jun-2014 07:51:15 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 35904 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/DboSource.php on line 460
+[27-Jun-2014 07:51:15 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 35904 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/DboSource.php on line 460
+[27-Jun-2014 07:51:21 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 35904 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/DboSource.php on line 460
+[27-Jun-2014 07:51:21 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 1 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[27-Jun-2014 07:52:01 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 35904 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/DboSource.php on line 460
+[27-Jun-2014 07:52:01 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 35904 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/DboSource.php on line 460
+[27-Jun-2014 07:52:02 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 35904 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/DboSource.php on line 460
+[27-Jun-2014 07:52:03 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 1 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[27-Jun-2014 07:52:04 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 1 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[27-Jun-2014 07:52:04 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 1 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[27-Jun-2014 07:52:04 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 1 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[27-Jun-2014 07:52:04 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 82 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[27-Jun-2014 11:35:55 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 5021696 bytes) in /home/moatazelobeid/public_html/demo/app/View/Layouts/admin.ctp on line 191
+[27-Jun-2014 11:37:41 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 5021696 bytes) in /home/moatazelobeid/public_html/demo/app/View/Layouts/admin.ctp on line 191
+[27-Jun-2014 11:39:23 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 5021696 bytes) in /home/moatazelobeid/public_html/demo/app/View/Layouts/admin.ctp on line 191
+[27-Jun-2014 11:46:29 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 5255168 bytes) in /home/moatazelobeid/public_html/demo/app/View/Layouts/admin.ctp on line 191
+[27-Jun-2014 11:54:29 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 5255168 bytes) in /home/moatazelobeid/public_html/demo/app/View/Layouts/admin.ctp on line 191
+[27-Jun-2014 11:59:08 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 5255168 bytes) in /home/moatazelobeid/public_html/demo/app/View/Layouts/admin.ctp on line 191
+[27-Jun-2014 11:59:23 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 5255168 bytes) in /home/moatazelobeid/public_html/demo/app/View/Layouts/admin.ctp on line 191
+[27-Jun-2014 14:13:05 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/moatazelobeid/public_html/demo/app/View/Helper/TemplateHelper.php on line 277
+[27-Jun-2014 14:36:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/View/Admin/add_product_category.ctp on line 472
+[27-Jun-2014 14:36:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/View/Admin/add_product_category.ctp on line 472
+[28-Jun-2014 11:17:54 UTC] PHP Parse error:  syntax error, unexpected '$attributes' (T_VARIABLE), expecting ')' in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 2150
+[28-Jun-2014 11:18:32 UTC] PHP Parse error:  syntax error, unexpected '$attributes' (T_VARIABLE), expecting ')' in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 2150
+[28-Jun-2014 11:19:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1324
+[28-Jun-2014 11:23:36 UTC] PHP Fatal error:  Call to undefined function aray_values() in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 2148
+[28-Jun-2014 11:25:05 UTC] PHP Fatal error:  Call to undefined function aray_values() in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 2148
+[28-Jun-2014 11:29:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1856
+[28-Jun-2014 11:29:40 UTC] PHP Fatal error:  Call to undefined function aray_values() in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 2156
+[28-Jun-2014 11:31:38 UTC] PHP Fatal error:  Call to undefined function aray_values() in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 2157
+[28-Jun-2014 11:34:12 UTC] PHP Fatal error:  Call to undefined function aray_values() in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 2158
+[28-Jun-2014 11:35:23 UTC] PHP Parse error:  syntax error, unexpected '()->setCellVal' in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 597
+[28-Jun-2014 11:44:18 UTC] PHP Parse error:  syntax error, unexpected ''' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 2275
+[28-Jun-2014 11:54:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1076
+[28-Jun-2014 11:54:22 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1342
+[28-Jun-2014 11:54:25 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1342
+[28-Jun-2014 11:54:29 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1342
+[28-Jun-2014 11:54:34 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1342
+[29-Jun-2014 15:05:06 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/moatazelobeid/public_html/demo/app/Controller/Component/CtrlComponent.php on line 457
+[29-Jun-2014 15:05:11 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/moatazelobeid/public_html/demo/app/Controller/Component/CtrlComponent.php on line 457
+[29-Jun-2014 15:05:11 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/moatazelobeid/public_html/demo/app/Controller/Component/CtrlComponent.php on line 457
+[29-Jun-2014 15:05:11 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/moatazelobeid/public_html/demo/app/Controller/Component/CtrlComponent.php on line 457
+[29-Jun-2014 15:10:47 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/moatazelobeid/public_html/demo/app/Controller/Component/CtrlComponent.php on line 457
+[29-Jun-2014 15:10:49 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/moatazelobeid/public_html/demo/app/Controller/Component/CtrlComponent.php on line 457
+[29-Jun-2014 20:42:37 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/moatazelobeid/public_html/demo/app/Controller/Component/CtrlComponent.php on line 457
+[30-Jun-2014 05:05:02 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/moatazelobeid/public_html/demo/app/Controller/Component/CtrlComponent.php on line 457
+[30-Jun-2014 05:11:44 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/moatazelobeid/public_html/demo/app/Controller/Component/CtrlComponent.php on line 457
+[30-Jun-2014 05:11:56 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/moatazelobeid/public_html/demo/app/Controller/Component/CtrlComponent.php on line 457
+[30-Jun-2014 05:15:36 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/moatazelobeid/public_html/demo/app/View/Helper/TemplateHelper.php on line 617
+[30-Jun-2014 05:25:41 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/moatazelobeid/public_html/demo/app/Controller/AdminController.php on line 493
+[30-Jun-2014 05:44:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/Controller/AdminController.php on line 75
+[30-Jun-2014 06:01:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1855
+[30-Jun-2014 06:10:27 UTC] PHP Fatal error:  Call to undefined method View::Template() in /home/moatazelobeid/public_html/demo/app/View/Homes/index.ctp on line 88
+[30-Jun-2014 06:10:30 UTC] PHP Fatal error:  Call to undefined method View::Template() in /home/moatazelobeid/public_html/demo/app/View/Homes/index.ctp on line 88
+[30-Jun-2014 06:20:36 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/moatazelobeid/public_html/demo/app/View/Helper/TemplateHelper.php on line 277
+[30-Jun-2014 07:33:19 UTC] PHP Parse error:  syntax error, unexpected '$english' (T_VARIABLE), expecting function (T_FUNCTION) in /home/moatazelobeid/public_html/demo/app/View/Helper/TemplateHelper.php on line 13
+[30-Jun-2014 07:33:24 UTC] PHP Parse error:  syntax error, unexpected '$english' (T_VARIABLE), expecting function (T_FUNCTION) in /home/moatazelobeid/public_html/demo/app/View/Helper/TemplateHelper.php on line 13
+[30-Jun-2014 07:33:34 UTC] PHP Parse error:  syntax error, unexpected '$english' (T_VARIABLE), expecting function (T_FUNCTION) in /home/moatazelobeid/public_html/demo/app/View/Helper/TemplateHelper.php on line 13
+[30-Jun-2014 07:33:41 UTC] PHP Parse error:  syntax error, unexpected '$english' (T_VARIABLE), expecting function (T_FUNCTION) in /home/moatazelobeid/public_html/demo/app/View/Helper/TemplateHelper.php on line 13
+[30-Jun-2014 07:33:47 UTC] PHP Parse error:  syntax error, unexpected '$english' (T_VARIABLE), expecting function (T_FUNCTION) in /home/moatazelobeid/public_html/demo/app/View/Helper/TemplateHelper.php on line 13
+[30-Jun-2014 07:33:54 UTC] PHP Parse error:  syntax error, unexpected '$english' (T_VARIABLE), expecting function (T_FUNCTION) in /home/moatazelobeid/public_html/demo/app/View/Helper/TemplateHelper.php on line 13
+[30-Jun-2014 07:33:58 UTC] PHP Parse error:  syntax error, unexpected '$english' (T_VARIABLE), expecting function (T_FUNCTION) in /home/moatazelobeid/public_html/demo/app/View/Helper/TemplateHelper.php on line 13
+[30-Jun-2014 07:34:01 UTC] PHP Parse error:  syntax error, unexpected '$english' (T_VARIABLE), expecting function (T_FUNCTION) in /home/moatazelobeid/public_html/demo/app/View/Helper/TemplateHelper.php on line 13
+[30-Jun-2014 07:34:06 UTC] PHP Parse error:  syntax error, unexpected '$english' (T_VARIABLE), expecting function (T_FUNCTION) in /home/moatazelobeid/public_html/demo/app/View/Helper/TemplateHelper.php on line 13
+[30-Jun-2014 07:34:12 UTC] PHP Parse error:  syntax error, unexpected '$english' (T_VARIABLE), expecting function (T_FUNCTION) in /home/moatazelobeid/public_html/demo/app/View/Helper/TemplateHelper.php on line 13
+[30-Jun-2014 07:36:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/View/Homes/index.ctp on line 74
+[30-Jun-2014 08:08:05 UTC] PHP Parse error:  syntax error, unexpected ''ac' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/moatazelobeid/public_html/demo/app/View/Elements/site-header.ctp on line 406
+[30-Jun-2014 09:42:28 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 3932328 bytes) in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 2247
+[30-Jun-2014 09:42:28 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 3932328 bytes) in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 2247
+[30-Jun-2014 09:43:10 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 3670024 bytes) in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 2247
+[30-Jun-2014 09:43:20 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 3932221 bytes) in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 2247
+[30-Jun-2014 09:43:25 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 3932221 bytes) in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 2247
+[30-Jun-2014 09:43:25 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 3932221 bytes) in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 2247
+[30-Jun-2014 10:27:53 UTC] PHP Warning:  Unterminated comment starting line 92 in /home/moatazelobeid/public_html/demo/app/View/Helper/TemplateHelper.php on line 92
+[30-Jun-2014 10:27:53 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/moatazelobeid/public_html/demo/app/View/Helper/TemplateHelper.php on line 95
+[30-Jun-2014 10:27:57 UTC] PHP Warning:  Unterminated comment starting line 92 in /home/moatazelobeid/public_html/demo/app/View/Helper/TemplateHelper.php on line 92
+[30-Jun-2014 10:27:57 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/moatazelobeid/public_html/demo/app/View/Helper/TemplateHelper.php on line 95
+[30-Jun-2014 10:43:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/View/Helper/TemplateHelper.php on line 596
+[30-Jun-2014 11:02:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/View/Homes/index.ctp on line 163
+[30-Jun-2014 12:22:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/View/Homes/index.ctp on line 70
+[30-Jun-2014 14:24:21 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 5767223 bytes) in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 2247
+[30-Jun-2014 14:24:22 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 5767223 bytes) in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 2247
+[30-Jun-2014 14:24:38 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 5767223 bytes) in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 2247
+[30-Jun-2014 14:25:11 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 5767223 bytes) in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 2247
+[30-Jun-2014 14:26:56 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 5767223 bytes) in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 2247
+[30-Jun-2014 14:27:33 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 5767223 bytes) in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 2247
+[30-Jun-2014 14:27:33 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 5767223 bytes) in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 2247
+[30-Jun-2014 19:02:58 UTC] PHP Warning:  Unterminated comment starting line 1252 in /home/moatazelobeid/public_html/demo/app/View/Products/compare.ctp on line 1252
+[30-Jun-2014 19:21:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1396
+[30-Jun-2014 19:28:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1396
+[30-Jun-2014 19:28:13 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting '(' in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1867
+[01-Jul-2014 10:00:55 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 185
+[01-Jul-2014 10:32:16 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 72 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[01-Jul-2014 10:32:16 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 80 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[01-Jul-2014 10:32:21 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[01-Jul-2014 10:32:26 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 26 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[01-Jul-2014 10:32:30 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 86 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[01-Jul-2014 11:46:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/View/Helper/TemplateHelper.php on line 576
+[01-Jul-2014 12:40:10 UTC] PHP Parse error:  syntax error, unexpected ''FAQ' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/moatazelobeid/public_html/demo/app/Controller/AdminController.php on line 998
+[01-Jul-2014 12:41:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/View/Admin/product_category_manager.ctp on line 101
+[01-Jul-2014 12:44:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/View/Helper/TemplateHelper.php on line 572
+[01-Jul-2014 13:26:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/View/Helper/TemplateHelper.php on line 277
+[01-Jul-2014 13:26:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/View/Helper/TemplateHelper.php on line 573
+[01-Jul-2014 14:01:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/Controller/AdminController.php on line 222
+[01-Jul-2014 14:02:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/Controller/AdminController.php on line 1975
+[02-Jul-2014 04:10:05 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 85 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[02-Jul-2014 04:10:05 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 85 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[02-Jul-2014 06:31:28 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/moatazelobeid/public_html/demo/app/Controller/Component/CtrlComponent.php on line 443
+[02-Jul-2014 06:31:30 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/moatazelobeid/public_html/demo/app/Controller/Component/CtrlComponent.php on line 443
+[02-Jul-2014 10:01:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 859
+[02-Jul-2014 12:26:18 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 512 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[02-Jul-2014 12:26:18 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 72 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[02-Jul-2014 12:27:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 797
+[02-Jul-2014 12:53:02 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[02-Jul-2014 12:53:02 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[02-Jul-2014 12:53:20 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 82 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[03-Jul-2014 05:14:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/View/Elements/site-header.ctp on line 78
+[03-Jul-2014 05:23:26 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 79 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[03-Jul-2014 05:23:26 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 84 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[03-Jul-2014 05:23:29 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 79 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[03-Jul-2014 05:23:29 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 82 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[03-Jul-2014 07:05:51 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE) in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1318
+[03-Jul-2014 07:05:55 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE) in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1318
+[03-Jul-2014 07:07:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 828
+[03-Jul-2014 07:08:27 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 185
+[03-Jul-2014 11:03:52 UTC] PHP Parse error:  syntax error, unexpected ''img_thum' (T_ENCAPSED_AND_WHITESPACE) in /home/moatazelobeid/public_html/demo/app/View/Elements/site-header.ctp on line 515
+[03-Jul-2014 12:12:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 666
+[03-Jul-2014 14:03:05 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 2587
+[07-Jul-2014 10:51:41 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 79 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[07-Jul-2014 10:51:41 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 79 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[08-Jul-2014 06:05:59 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 512 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[08-Jul-2014 06:05:59 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[08-Jul-2014 15:24:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 2657
+[08-Jul-2014 15:25:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 681
+[09-Jul-2014 06:23:18 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 77 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[09-Jul-2014 06:23:18 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 85 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[09-Jul-2014 06:25:06 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[09-Jul-2014 07:53:10 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 80 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[09-Jul-2014 07:53:10 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 83 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[09-Jul-2014 07:54:38 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/DboSource.php on line 460
+[09-Jul-2014 07:54:39 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/DboSource.php on line 460
+[09-Jul-2014 07:56:13 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/DboSource.php on line 460
+[09-Jul-2014 10:59:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1362
+[09-Jul-2014 11:23:52 UTC] PHP Parse error:  syntax error, unexpected ''Product.category_id !='' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1124
+[09-Jul-2014 11:23:57 UTC] PHP Parse error:  syntax error, unexpected ''Product.category_id !='' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1124
+[09-Jul-2014 11:23:57 UTC] PHP Parse error:  syntax error, unexpected ''Product.category_id !='' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1124
+[09-Jul-2014 11:24:24 UTC] PHP Parse error:  syntax error, unexpected ''Product.category_id !='' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1124
+[09-Jul-2014 11:24:29 UTC] PHP Parse error:  syntax error, unexpected ''Product.category_id !='' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1124
+[09-Jul-2014 11:29:39 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1127
+[09-Jul-2014 11:48:55 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 72 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[09-Jul-2014 11:48:56 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 1 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[09-Jul-2014 11:50:36 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 72 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[09-Jul-2014 11:56:07 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[09-Jul-2014 11:56:26 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[09-Jul-2014 12:14:35 UTC] PHP Warning:  Unterminated comment starting line 59 in /home/moatazelobeid/public_html/demo/app/Config/core.php on line 59
+[09-Jul-2014 12:14:35 UTC] PHP Notice:  Undefined index: Exception in /home/moatazelobeid/public_html/demo/lib/Cake/Core/Configure.php on line 103
+[17-Jul-2014 14:29:15 UTC] PHP Parse error:  syntax error, unexpected ''Product_lang.lang' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/moatazelobeid/public_html/demo/app/View/Helper/TemplateHelper.php on line 582
+[17-Jul-2014 20:34:45 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 246
+[17-Jul-2014 20:34:47 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Model.php on line 1368
+[17-Jul-2014 20:49:28 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/moatazelobeid/public_html/demo/app/Controller/Component/CtrlComponent.php on line 915
+[17-Jul-2014 20:51:39 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 246
+[18-Jul-2014 05:10:38 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/moatazelobeid/public_html/demo/app/Controller/Component/CtrlComponent.php on line 915
+[18-Jul-2014 05:11:26 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/DboSource.php on line 460
+[19-Jul-2014 05:53:07 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 253
+[21-Jul-2014 15:37:03 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 0
+[23-Jul-2014 15:42:24 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/moatazelobeid/public_html/demo/app/View/Layouts/offers.ctp on line 188
+[23-Jul-2014 15:45:28 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/moatazelobeid/public_html/demo/app/View/Layouts/offers.ctp on line 188
+[23-Jul-2014 15:45:29 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/moatazelobeid/public_html/demo/app/View/Layouts/offers.ctp on line 188
+[23-Jul-2014 15:45:58 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/moatazelobeid/public_html/demo/app/View/Layouts/offers.ctp on line 188
+[24-Jul-2014 05:49:23 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/moatazelobeid/public_html/demo/app/View/Layouts/offers.ctp on line 188
+[24-Jul-2014 05:50:42 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/moatazelobeid/public_html/demo/app/View/Layouts/offers.ctp on line 188
+[27-Jul-2014 06:06:55 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/moatazelobeid/public_html/demo/lib/Cake/Event/CakeEventManager.php on line 248
+[06-Aug-2014 14:21:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/Controller/MerchantController.php on line 898
+[07-Aug-2014 07:05:34 UTC] PHP Notice:  Undefined index: Error in /home/moatazelobeid/public_html/demo/lib/Cake/Core/Configure.php on line 102
+[07-Aug-2014 07:05:34 UTC] PHP Notice:  Undefined index: Exception in /home/moatazelobeid/public_html/demo/lib/Cake/Core/Configure.php on line 103
+[07-Aug-2014 07:05:34 UTC] PHP Notice:  Undefined index: cookie in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/CakeSession.php on line 473
+[07-Aug-2014 07:05:34 UTC] PHP Notice:  Undefined index: timeout in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/CakeSession.php on line 479
+[07-Aug-2014 07:05:34 UTC] PHP Warning:  ini_set(): session.name cannot be a numeric or empty '' in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/CakeSession.php on line 488
+[07-Aug-2014 07:05:34 UTC] PHP Notice:  Undefined index: cookie in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/CakeSession.php on line 473
+[07-Aug-2014 07:05:34 UTC] PHP Notice:  Undefined index: timeout in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/CakeSession.php on line 479
+[07-Aug-2014 07:05:34 UTC] PHP Warning:  ini_set(): session.name cannot be a numeric or empty '' in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/CakeSession.php on line 488
+[07-Aug-2014 07:05:34 UTC] PHP Notice:  Undefined index: cookie in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/CakeSession.php on line 473
+[07-Aug-2014 07:05:34 UTC] PHP Notice:  Undefined index: timeout in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/CakeSession.php on line 479
+[07-Aug-2014 07:05:34 UTC] PHP Warning:  ini_set(): session.name cannot be a numeric or empty '' in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/CakeSession.php on line 488
+[07-Aug-2014 07:05:34 UTC] PHP Warning:  set_error_handler() expects the argument () to be a valid callback in /home/moatazelobeid/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 124
+[07-Aug-2014 07:05:34 UTC] PHP Fatal error:  [CakeSessionException] Unable to configure the session, setting session.name failed.
+#0 /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/CakeSession.php(189): CakeSession::_configureSession()
+#1 /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/CakeSession.php(216): CakeSession::start()
+#2 /home/moatazelobeid/public_html/demo/lib/Cake/View/Helper/SessionHelper.php(123): CakeSession::check('Message.flash')
+#3 /home/moatazelobeid/public_html/demo/app/View/Layouts/error.ctp(47): SessionHelper->flash()
+#4 /home/moatazelobeid/public_html/demo/lib/Cake/View/View.php(931): include('/home/moatazelo...')
+#5 /home/moatazelobeid/public_html/demo/lib/Cake/View/View.php(893): View->_evaluate('/home/moatazelo...', Array)
+#6 /home/moatazelobeid/public_html/demo/lib/Cake/View/View.php(525): View->_render('/home/moatazelo...')
+#7 /home/moatazelobeid/public_html/demo/lib/Cake/View/View.php(470): View->renderLayout('', 'error')
+#8 /home/moatazelobeid/public_html/demo/lib/Cake/Error/ExceptionRenderer.p in /home/moatazelobeid/public_html/demo/lib/Cake/Error/ErrorHandler.php on line 131
+[10-Aug-2014 15:07:30 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/DboSource.php on line 1477
+[10-Aug-2014 15:07:54 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/moatazelobeid/public_html/demo/app/Controller/Component/CtrlComponent.php on line 950
+[11-Aug-2014 08:12:38 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 246
+[12-Aug-2014 06:39:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/Controller/AdminController.php on line 480
+[12-Aug-2014 06:56:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/Controller/AdminController.php on line 74
+[12-Aug-2014 16:56:04 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/moatazelobeid/public_html/demo/app/Controller/Component/CtrlComponent.php on line 950
+[12-Aug-2014 16:56:07 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/moatazelobeid/public_html/demo/app/Controller/Component/CtrlComponent.php on line 950
+[12-Aug-2014 16:56:11 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/DboSource.php on line 2539
+[12-Aug-2014 16:56:11 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/DboSource.php on line 682
+[12-Aug-2014 16:56:14 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/moatazelobeid/public_html/demo/lib/Cake/Utility/ObjectCollection.php on line 132
+[12-Aug-2014 16:56:21 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Model.php on line 0
+[12-Aug-2014 16:56:21 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/DboSource.php on line 2546
+[12-Aug-2014 16:56:23 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/DboSource.php on line 460
+[12-Aug-2014 16:56:29 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/moatazelobeid/public_html/demo/app/Controller/Component/CtrlComponent.php on line 950
+[12-Aug-2014 16:56:29 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/moatazelobeid/public_html/demo/lib/Cake/Utility/Hash.php on line 122
+[13-Aug-2014 11:19:36 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/DboSource.php on line 460
+[13-Aug-2014 11:24:25 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/Database/Mysql.php on line 277
+[14-Aug-2014 09:36:34 UTC] PHP Fatal error:  Class 'Excel' not found in /home/moatazelobeid/public_html/demo/app/Controller/ReportsController.php on line 151
+[14-Aug-2014 09:37:21 UTC] PHP Fatal error:  Class 'Excel' not found in /home/moatazelobeid/public_html/demo/app/Controller/ReportsController.php on line 151
+[14-Aug-2014 09:37:39 UTC] PHP Fatal error:  Class 'Excel' not found in /home/moatazelobeid/public_html/demo/app/Controller/ReportsController.php on line 151
+[14-Aug-2014 09:37:52 UTC] PHP Fatal error:  Class 'Excel' not found in /home/moatazelobeid/public_html/demo/app/Controller/ReportsController.php on line 151
+[14-Aug-2014 09:38:13 UTC] PHP Fatal error:  Class 'Excel' not found in /home/moatazelobeid/public_html/demo/app/Controller/ReportsController.php on line 151
+[14-Aug-2014 09:39:22 UTC] PHP Fatal error:  Class 'Excel' not found in /home/moatazelobeid/public_html/demo/app/Controller/ReportsController.php on line 151
+[14-Aug-2014 09:40:20 UTC] PHP Fatal error:  Class 'Excel' not found in /home/moatazelobeid/public_html/demo/app/Controller/ReportsController.php on line 151
+[19-Aug-2014 09:31:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 875
+[21-Aug-2014 11:40:26 UTC] PHP Fatal error:  Call to a member function languageChanger() on a non-object in /home/moatazelobeid/public_html/demo/app/Controller/PagesController.php on line 124
+[21-Aug-2014 11:40:59 UTC] PHP Fatal error:  Call to a member function languageChanger() on a non-object in /home/moatazelobeid/public_html/demo/app/Controller/PagesController.php on line 124
+[21-Aug-2014 11:41:34 UTC] PHP Fatal error:  Call to a member function languageChanger() on a non-object in /home/moatazelobeid/public_html/demo/app/Controller/PagesController.php on line 124
+[21-Aug-2014 11:42:07 UTC] PHP Fatal error:  Call to a member function languageChanger() on a non-object in /home/moatazelobeid/public_html/demo/app/Controller/PagesController.php on line 124
+[21-Aug-2014 12:59:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 1947
+[23-Aug-2014 09:20:24 UTC] PHP Fatal error:  Call to a member function save() on a non-object in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 904
+[23-Aug-2014 09:24:28 UTC] PHP Fatal error:  Call to a member function save() on a non-object in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 904
+[23-Aug-2014 09:25:03 UTC] PHP Fatal error:  Call to a member function findByMerchantIdAndUserId() on a non-object in /home/moatazelobeid/public_html/demo/app/Controller/ProductsController.php on line 922
+[04-Sep-2014 12:56:22 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/moatazelobeid/public_html/demo/app/Controller/Component/CtrlComponent.php on line 1054
+[04-Sep-2014 12:56:46 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Behavior/TreeBehavior.php on line 311
+[04-Sep-2014 12:56:51 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/moatazelobeid/public_html/demo/lib/Cake/Model/Datasource/DboSource.php on line 449
+[04-Sep-2014 12:56:53 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/moatazelobeid/public_html/demo/lib/Cake/Utility/Hash.php on line 122
+[04-Sep-2014 13:36:12 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/moatazelobeid/public_html/demo/app/Controller/Component/CtrlComponent.php on line 1054
+[04-Sep-2014 13:36:16 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/moatazelobeid/public_html/demo/app/Controller/Component/CtrlComponent.php on line 1054
+[04-Sep-2014 13:36:16 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/moatazelobeid/public_html/demo/app/Controller/Component/CtrlComponent.php on line 1054
+[04-Sep-2014 13:36:22 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/moatazelobeid/public_html/demo/app/Controller/Component/CtrlComponent.php on line 1054
+[04-Sep-2014 13:36:27 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/moatazelobeid/public_html/demo/app/Controller/Component/CtrlComponent.php on line 1054
+[05-Sep-2014 12:30:18 UTC] PHP Fatal error:  Cannot redeclare trimssss() (previously declared in /home/moatazelobeid/public_html/demo/app/Controller/Component/CtrlComponent.php:171) in /home/moatazelobeid/public_html/demo/app/Controller/Component/CtrlComponent.php on line 171
+[05-Sep-2014 12:30:32 UTC] PHP Fatal error:  Cannot redeclare trimssss() (previously declared in /home/moatazelobeid/public_html/demo/app/Controller/Component/CtrlComponent.php:171) in /home/moatazelobeid/public_html/demo/app/Controller/Component/CtrlComponent.php on line 171
+[05-Sep-2014 12:30:45 UTC] PHP Fatal error:  Cannot redeclare trimssss() (previously declared in /home/moatazelobeid/public_html/demo/app/Controller/Component/CtrlComponent.php:171) in /home/moatazelobeid/public_html/demo/app/Controller/Component/CtrlComponent.php on line 171
+[05-Sep-2014 12:31:09 UTC] PHP Fatal error:  Cannot redeclare trimssss() (previously declared in /home/moatazelobeid/public_html/demo/app/Controller/Component/CtrlComponent.php:171) in /home/moatazelobeid/public_html/demo/app/Controller/Component/CtrlComponent.php on line 171
+[05-Sep-2014 12:31:39 UTC] PHP Fatal error:  Cannot redeclare trimssss() (previously declared in /home/moatazelobeid/public_html/demo/app/Controller/Component/CtrlComponent.php:171) in /home/moatazelobeid/public_html/demo/app/Controller/Component/CtrlComponent.php on line 171
+[11-Sep-2014 05:51:37 UTC] PHP Warning:  Unterminated comment starting line 1544 in /home/moatazelobeid/public_html/app/Controller/MerchantController.php on line 1544
+[11-Sep-2014 05:51:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/app/Controller/MerchantController.php on line 1544
+[11-Sep-2014 10:27:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/app/Controller/ProductsController.php on line 2329
+[11-Sep-2014 10:35:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/app/Controller/ProductsController.php on line 2110
+[11-Sep-2014 10:35:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/app/Controller/ProductsController.php on line 2110
+[11-Sep-2014 10:36:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/app/Controller/ProductsController.php on line 2110
+[11-Sep-2014 10:36:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/app/Controller/ProductsController.php on line 2110
+[11-Sep-2014 10:37:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/app/Controller/ProductsController.php on line 2110
+[11-Sep-2014 10:40:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/app/Controller/ProductsController.php on line 443
+[11-Sep-2014 10:40:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/app/Controller/ProductsController.php on line 693
+[11-Sep-2014 10:40:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/app/Controller/ProductsController.php on line 693
+[11-Sep-2014 10:40:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/app/Controller/ProductsController.php on line 693
+[11-Sep-2014 10:42:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/app/Controller/ProductsController.php on line 1010
+[11-Sep-2014 11:03:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/app/Controller/ProductsController.php on line 2929
+[11-Sep-2014 11:04:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/app/Controller/ProductsController.php on line 2929
+[11-Sep-2014 11:04:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/app/Controller/ProductsController.php on line 2929
+[11-Sep-2014 11:04:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/app/Controller/ProductsController.php on line 2929
+[11-Sep-2014 11:04:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/app/Controller/ProductsController.php on line 2929
+[11-Sep-2014 11:04:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/app/Controller/ProductsController.php on line 2929
+[11-Sep-2014 11:04:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/app/Controller/ProductsController.php on line 2929
+[11-Sep-2014 11:05:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/app/Controller/ProductsController.php on line 2929
+[11-Sep-2014 11:05:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/app/Controller/ProductsController.php on line 2929
+[11-Sep-2014 11:47:43 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ')' in /home/moatazelobeid/public_html/app/Controller/ProductsController.php on line 72
+[11-Sep-2014 11:47:43 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ')' in /home/moatazelobeid/public_html/app/Controller/ProductsController.php on line 72
+[12-Sep-2014 12:54:35 UTC] PHP Fatal error:  Call to a member function getTranslation() on a non-object in /home/moatazelobeid/public_html/app/Controller/AdminController.php on line 3285
+[12-Sep-2014 13:01:19 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/moatazelobeid/public_html/app/Controller/AdminController.php on line 3293
+[12-Sep-2014 13:01:24 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/moatazelobeid/public_html/app/Controller/AdminController.php on line 3293
+[12-Sep-2014 13:07:29 UTC] PHP Fatal error:  Call to a member function getTranslation() on a non-object in /home/moatazelobeid/public_html/app/Controller/AdminController.php on line 3285
+[12-Sep-2014 13:09:18 UTC] PHP Fatal error:  Call to a member function getTranslation() on a non-object in /home/moatazelobeid/public_html/app/Controller/AdminController.php on line 3285
+[13-Sep-2014 07:52:57 UTC] PHP Warning:  Unterminated comment starting line 825 in /home/moatazelobeid/public_html/app/Controller/ProductsController.php on line 825
+[13-Sep-2014 07:52:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/app/Controller/ProductsController.php on line 845
+[25-Sep-2014 14:08:43 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/moatazelobeid/public_html/app/Vendor/common_class.php on line 298
+[25-Sep-2014 14:15:13 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/moatazelobeid/public_html/app/Vendor/common_class.php on line 298
+[29-Sep-2014 13:35:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/app/Controller/ProductsController.php on line 2254
+[29-Sep-2014 13:35:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/app/Controller/ProductsController.php on line 2254
+[29-Sep-2014 13:35:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/app/Controller/ProductsController.php on line 2254
+[29-Sep-2014 13:35:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/app/Controller/ProductsController.php on line 2254
+[09-Oct-2014 10:51:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/app/View/Products/compare.ctp on line 2164
+[25-Nov-2014 13:03:22 UTC] PHP Notice:  Undefined index: Error in /home/moatazelobeid/public_html/lib/Cake/Core/Configure.php on line 102
+[25-Nov-2014 13:03:22 UTC] PHP Notice:  Undefined index: Exception in /home/moatazelobeid/public_html/lib/Cake/Core/Configure.php on line 103
+[25-Nov-2014 13:03:23 UTC] PHP Notice:  Undefined index: cookie in /home/moatazelobeid/public_html/lib/Cake/Model/Datasource/CakeSession.php on line 473
+[25-Nov-2014 13:03:23 UTC] PHP Notice:  Undefined index: timeout in /home/moatazelobeid/public_html/lib/Cake/Model/Datasource/CakeSession.php on line 479
+[25-Nov-2014 13:03:23 UTC] PHP Warning:  ini_set(): session.name cannot be a numeric or empty '' in /home/moatazelobeid/public_html/lib/Cake/Model/Datasource/CakeSession.php on line 488
+[26-Nov-2014 10:11:22 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 92 bytes) in /home/moatazelobeid/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[26-Nov-2014 10:27:07 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 1 bytes) in /home/moatazelobeid/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[26-Nov-2014 10:27:52 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/moatazelobeid/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[26-Nov-2014 10:28:24 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/moatazelobeid/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[26-Nov-2014 10:28:37 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 512 bytes) in /home/moatazelobeid/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[26-Nov-2014 10:28:52 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 83 bytes) in /home/moatazelobeid/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[26-Nov-2014 10:29:02 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/moatazelobeid/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[26-Nov-2014 10:29:24 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 79 bytes) in /home/moatazelobeid/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[26-Nov-2014 10:31:06 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 85 bytes) in /home/moatazelobeid/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[26-Nov-2014 10:33:33 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 512 bytes) in /home/moatazelobeid/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[26-Nov-2014 10:41:05 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 92 bytes) in /home/moatazelobeid/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[26-Nov-2014 10:55:37 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 85 bytes) in /home/moatazelobeid/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[26-Nov-2014 12:01:33 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 512 bytes) in /home/moatazelobeid/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[26-Nov-2014 13:44:43 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 85 bytes) in /home/moatazelobeid/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[26-Nov-2014 13:45:05 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 512 bytes) in /home/moatazelobeid/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[26-Nov-2014 13:46:02 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 1 bytes) in /home/moatazelobeid/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[26-Nov-2014 14:13:38 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 80 bytes) in /home/moatazelobeid/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[26-Nov-2014 14:14:55 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 1 bytes) in /home/moatazelobeid/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[26-Nov-2014 14:18:59 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 76 bytes) in /home/moatazelobeid/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[26-Nov-2014 14:19:12 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 88 bytes) in /home/moatazelobeid/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[26-Nov-2014 14:20:50 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 85 bytes) in /home/moatazelobeid/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[26-Nov-2014 15:08:41 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 75 bytes) in /home/moatazelobeid/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[26-Nov-2014 15:09:19 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 512 bytes) in /home/moatazelobeid/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[26-Nov-2014 15:09:50 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 85 bytes) in /home/moatazelobeid/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[26-Nov-2014 15:14:32 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 512 bytes) in /home/moatazelobeid/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[26-Nov-2014 15:15:24 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/moatazelobeid/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[26-Nov-2014 15:15:53 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 1 bytes) in /home/moatazelobeid/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[26-Nov-2014 15:16:04 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 77 bytes) in /home/moatazelobeid/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[26-Nov-2014 15:16:28 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 85 bytes) in /home/moatazelobeid/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[26-Nov-2014 15:17:00 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/moatazelobeid/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[26-Nov-2014 15:17:28 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 82 bytes) in /home/moatazelobeid/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[27-Nov-2014 04:27:44 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 5242880 bytes) in /home/moatazelobeid/public_html/app/View/Products/compare.ctp on line 1891
+[27-Nov-2014 04:28:46 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 4980736 bytes) in /home/moatazelobeid/public_html/app/View/Products/compare.ctp on line 1863
+[27-Nov-2014 05:20:00 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 4980736 bytes) in /home/moatazelobeid/public_html/app/View/Products/compare.ctp on line 1863
+[27-Nov-2014 05:20:07 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 4980736 bytes) in /home/moatazelobeid/public_html/app/View/Products/compare.ctp on line 1863
+[27-Nov-2014 05:24:25 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 262144 bytes) in /home/moatazelobeid/public_html/app/View/Products/compare.ctp on line 1875
+[27-Nov-2014 05:28:10 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 4980736 bytes) in /home/moatazelobeid/public_html/app/View/Products/compare.ctp on line 1863
+[27-Nov-2014 05:33:10 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 262144 bytes) in /home/moatazelobeid/public_html/app/View/Products/compare.ctp on line 1875
+[27-Nov-2014 06:14:08 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 75 bytes) in /home/moatazelobeid/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[27-Nov-2014 06:16:11 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/moatazelobeid/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 266
+[27-Nov-2014 13:39:07 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 5242880 bytes) in /home/moatazelobeid/public_html/app/View/Products/compare.ctp on line 1891
+[28-Nov-2014 05:19:07 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 81 bytes) in /home/moatazelobeid/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[28-Nov-2014 06:14:22 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 82 bytes) in /home/moatazelobeid/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[28-Nov-2014 09:25:26 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 82 bytes) in /home/moatazelobeid/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[28-Nov-2014 09:54:58 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 76 bytes) in /home/moatazelobeid/public_html/lib/Cake/Model/Datasource/Database/Mysql.php on line 270
+[03-Dec-2014 16:58:40 UTC] PHP Parse error:  syntax error, unexpected 'video' (T_STRING), expecting ',' or ';' in /home/moatazelobeid/public_html/app/View/Merchant/how_it_works.ctp on line 103
+[03-Dec-2014 16:58:45 UTC] PHP Parse error:  syntax error, unexpected 'video' (T_STRING), expecting ',' or ';' in /home/moatazelobeid/public_html/app/View/Merchant/how_it_works.ctp on line 103
+[06-Dec-2014 05:05:39 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 6428831 bytes) in /home/moatazelobeid/public_html/lib/Cake/View/View.php on line 934
+[06-Dec-2014 05:05:57 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 6429373 bytes) in /home/moatazelobeid/public_html/lib/Cake/View/View.php on line 934
+[06-Dec-2014 05:06:15 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 6029312 bytes) in /home/moatazelobeid/public_html/app/View/Products/compare.ctp on line 1905
+[06-Dec-2014 05:56:57 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 6428831 bytes) in /home/moatazelobeid/public_html/lib/Cake/View/View.php on line 934
+[06-Dec-2014 06:05:19 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 6029312 bytes) in /home/moatazelobeid/public_html/app/View/Products/compare.ctp on line 1830
+[06-Dec-2014 06:06:36 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 6428831 bytes) in /home/moatazelobeid/public_html/lib/Cake/View/View.php on line 934
+[06-Dec-2014 07:51:33 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 6429381 bytes) in /home/moatazelobeid/public_html/lib/Cake/View/View.php on line 934
+[06-Dec-2014 07:52:00 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 6434286 bytes) in /home/moatazelobeid/public_html/lib/Cake/View/View.php on line 934
+[06-Dec-2014 07:53:02 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 6429544 bytes) in /home/moatazelobeid/public_html/lib/Cake/View/View.php on line 934
+[07-Dec-2014 09:56:48 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 6436138 bytes) in /home/moatazelobeid/public_html/lib/Cake/View/View.php on line 934
+[07-Dec-2014 09:57:16 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 6431673 bytes) in /home/moatazelobeid/public_html/lib/Cake/View/View.php on line 934
+[08-Dec-2014 05:03:14 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 6429418 bytes) in /home/moatazelobeid/public_html/lib/Cake/View/View.php on line 934
+[08-Dec-2014 06:02:46 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 6434278 bytes) in /home/moatazelobeid/public_html/lib/Cake/View/View.php on line 934
+[08-Dec-2014 06:03:40 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 6541745 bytes) in /home/moatazelobeid/public_html/lib/Cake/View/View.php on line 928
+[08-Dec-2014 06:27:11 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 6437390 bytes) in /home/moatazelobeid/public_html/lib/Cake/View/View.php on line 934
+[08-Dec-2014 08:46:48 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 6429373 bytes) in /home/moatazelobeid/public_html/lib/Cake/View/View.php on line 934
+[08-Dec-2014 10:21:23 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 6430453 bytes) in /home/moatazelobeid/public_html/lib/Cake/View/View.php on line 934
+[08-Dec-2014 10:21:31 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 6430453 bytes) in /home/moatazelobeid/public_html/lib/Cake/View/View.php on line 934
+[08-Dec-2014 10:21:54 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 6430453 bytes) in /home/moatazelobeid/public_html/lib/Cake/View/View.php on line 934
+[08-Dec-2014 10:22:29 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 6430453 bytes) in /home/moatazelobeid/public_html/lib/Cake/View/View.php on line 934
+[08-Dec-2014 10:42:40 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 6430453 bytes) in /home/moatazelobeid/public_html/lib/Cake/View/View.php on line 934
+[08-Dec-2014 10:42:48 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 6029312 bytes) in /home/moatazelobeid/public_html/app/View/Products/compare.ctp on line 1891
+[09-Dec-2014 05:33:48 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 6430469 bytes) in /home/moatazelobeid/public_html/lib/Cake/View/View.php on line 934
+[09-Dec-2014 05:35:08 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 6430469 bytes) in /home/moatazelobeid/public_html/lib/Cake/View/View.php on line 934
+[09-Dec-2014 05:35:17 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 6029312 bytes) in /home/moatazelobeid/public_html/app/View/Products/compare.ctp on line 1891
+[09-Dec-2014 05:38:59 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 8474105 bytes) in /home/moatazelobeid/public_html/lib/Cake/basics.php on line 200
+[09-Dec-2014 05:39:46 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 7732781 bytes) in /home/moatazelobeid/public_html/lib/Cake/Utility/Debugger.php on line 795
+[09-Dec-2014 05:44:04 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 8474105 bytes) in /home/moatazelobeid/public_html/lib/Cake/basics.php on line 200
+[09-Dec-2014 05:44:44 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 7732899 bytes) in /home/moatazelobeid/public_html/lib/Cake/Utility/Debugger.php on line 795
+[09-Dec-2014 05:44:55 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 8474105 bytes) in /home/moatazelobeid/public_html/lib/Cake/basics.php on line 200
+[09-Dec-2014 05:45:05 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 8474105 bytes) in /home/moatazelobeid/public_html/lib/Cake/basics.php on line 200
+[09-Dec-2014 05:45:17 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 8474105 bytes) in /home/moatazelobeid/public_html/lib/Cake/basics.php on line 200
+[09-Dec-2014 05:45:27 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 8474105 bytes) in /home/moatazelobeid/public_html/lib/Cake/basics.php on line 200
+[09-Dec-2014 05:45:38 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 8474105 bytes) in /home/moatazelobeid/public_html/lib/Cake/basics.php on line 200
+[09-Dec-2014 06:31:43 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 7733530 bytes) in /home/moatazelobeid/public_html/lib/Cake/Utility/Debugger.php on line 795
+[09-Dec-2014 06:35:30 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 8474215 bytes) in /home/moatazelobeid/public_html/lib/Cake/basics.php on line 200
+[09-Dec-2014 06:48:27 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 8474215 bytes) in /home/moatazelobeid/public_html/lib/Cake/basics.php on line 200
+[09-Dec-2014 06:50:59 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 6430469 bytes) in /home/moatazelobeid/public_html/lib/Cake/View/View.php on line 934
+[09-Dec-2014 06:52:38 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 6430469 bytes) in /home/moatazelobeid/public_html/lib/Cake/View/View.php on line 934
+[09-Dec-2014 06:54:52 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 7733825 bytes) in /home/moatazelobeid/public_html/lib/Cake/Utility/Debugger.php on line 795
+[09-Dec-2014 06:59:34 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 8474215 bytes) in /home/moatazelobeid/public_html/lib/Cake/basics.php on line 200
+[09-Dec-2014 07:03:12 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 8474215 bytes) in /home/moatazelobeid/public_html/lib/Cake/basics.php on line 200
+[09-Dec-2014 07:37:55 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 6430469 bytes) in /home/moatazelobeid/public_html/lib/Cake/View/View.php on line 934
+[09-Dec-2014 07:52:51 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 7734061 bytes) in /home/moatazelobeid/public_html/lib/Cake/Utility/Debugger.php on line 795
+[09-Dec-2014 08:55:32 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 10653723 bytes) in /home/moatazelobeid/public_html/lib/Cake/Utility/String.php on line 243
+[15-Dec-2014 21:46:10 UTC] PHP Parse error:  syntax error, unexpected 'video' (T_STRING), expecting ',' or ';' in /home/moatazelobeid/public_html/app/View/Merchant/how_it_works.ctp on line 103
+[15-Dec-2014 21:46:43 UTC] PHP Parse error:  syntax error, unexpected 'video' (T_STRING), expecting ',' or ';' in /home/moatazelobeid/public_html/app/View/Merchant/how_it_works.ctp on line 103
+[15-Dec-2014 21:46:47 UTC] PHP Parse error:  syntax error, unexpected 'video' (T_STRING), expecting ',' or ';' in /home/moatazelobeid/public_html/app/View/Merchant/how_it_works.ctp on line 103
+[16-Dec-2014 12:57:47 UTC] PHP Parse error:  syntax error, unexpected 'video' (T_STRING), expecting ',' or ';' in /home/moatazelobeid/public_html/app/View/Merchant/how_it_works.ctp on line 103
+[16-Dec-2014 19:44:11 UTC] PHP Parse error:  syntax error, unexpected 'video' (T_STRING), expecting ',' or ';' in /home/moatazelobeid/public_html/app/View/Merchant/how_it_works.ctp on line 103
+[17-Dec-2014 12:54:22 UTC] PHP Parse error:  syntax error, unexpected 'video' (T_STRING), expecting ',' or ';' in /home/moatazelobeid/public_html/app/View/Merchant/how_it_works.ctp on line 103
+[19-Dec-2014 04:41:21 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/moatazelobeid/public_html/app/Controller/CrawlsController.php on line 344
+[19-Dec-2014 04:42:48 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/moatazelobeid/public_html/app/Controller/CrawlsController.php on line 344
+[19-Dec-2014 04:59:25 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/moatazelobeid/public_html/app/Controller/CrawlsController.php on line 344
+[24-Dec-2014 12:47:54 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/moatazelobeid/public_html/app/View/Helper/TemplateHelper.php on line 89
+[24-Dec-2014 12:47:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/app/View/Helper/TemplateHelper.php on line 573
+[24-Dec-2014 12:47:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/app/View/Helper/TemplateHelper.php on line 1156
+[29-Dec-2014 06:53:16 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/moatazelobeid/public_html/app/View/Layouts/categorylist.ctp on line 293
+[29-Dec-2014 06:57:03 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/moatazelobeid/public_html/app/View/Layouts/categorylist.ctp on line 293
+[29-Dec-2014 06:57:46 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/moatazelobeid/public_html/app/View/Layouts/categorylist.ctp on line 293
+[29-Dec-2014 06:58:05 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/moatazelobeid/public_html/app/View/Layouts/categorylist.ctp on line 293
+[29-Dec-2014 07:24:07 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/moatazelobeid/public_html/app/Controller/HomesController.php on line 60
+[29-Dec-2014 10:43:10 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/moatazelobeid/public_html/app/View/Homes/index.ctp on line 361
+[30-Dec-2014 06:58:28 UTC] PHP Parse error:  syntax error, unexpected 'video' (T_STRING), expecting ',' or ';' in /home/moatazelobeid/public_html/app/View/Merchant/how_it_works.ctp on line 103
+[31-Dec-2014 09:11:57 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/moatazelobeid/public_html/app/Controller/Component/CtrlComponent.php on line 114
+[31-Dec-2014 09:12:12 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/moatazelobeid/public_html/app/Controller/Component/CtrlComponent.php on line 114
+[31-Dec-2014 09:23:05 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/moatazelobeid/public_html/app/Controller/ProductsController.php on line 2903
+[31-Dec-2014 09:23:17 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/moatazelobeid/public_html/app/Controller/ProductsController.php on line 2903
+[31-Dec-2014 12:47:23 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/moatazelobeid/public_html/app/Controller/Component/CtrlComponent.php on line 1098
+[31-Dec-2014 12:47:23 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/moatazelobeid/public_html/app/Controller/Component/CtrlComponent.php on line 1098
+[31-Dec-2014 12:47:24 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/moatazelobeid/public_html/app/Controller/Component/CtrlComponent.php on line 1098
+[31-Dec-2014 20:04:35 UTC] PHP Parse error:  syntax error, unexpected 'video' (T_STRING), expecting ',' or ';' in /home/moatazelobeid/public_html/app/View/Merchant/how_it_works.ctp on line 103
+[02-Jan-2015 06:32:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/app/Controller/ProductsController.php on line 4764
+[07-Jan-2015 11:07:56 UTC] PHP Fatal error:  Unsupported operand types in /home/moatazelobeid/public_html/app/View/Helper/TemplateHelper.php on line 623
+[07-Jan-2015 11:07:56 UTC] PHP Fatal error:  Unsupported operand types in /home/moatazelobeid/public_html/app/View/Helper/TemplateHelper.php on line 623
+[07-Jan-2015 11:11:09 UTC] PHP Fatal error:  Unsupported operand types in /home/moatazelobeid/public_html/app/View/Helper/TemplateHelper.php on line 623
+[07-Jan-2015 13:00:29 UTC] PHP Warning:  Unterminated comment starting line 839 in /home/moatazelobeid/public_html/app/Controller/ProductsController.php on line 839
+[07-Jan-2015 13:00:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/moatazelobeid/public_html/app/Controller/ProductsController.php on line 855
+[07-Jan-2015 13:00:29 UTC] PHP Parse error:  syntax error, unexpected ''Merch' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/moatazelobeid/public_html/app/Controller/ProductsController.php on line 1943
+[08-Jan-2015 05:59:45 UTC] PHP Parse error:  syntax error, unexpected 'video' (T_STRING), expecting ',' or ';' in /home/moatazelobeid/public_html/app/View/Merchant/how_it_works.ctp on line 103
+[10-Jan-2015 04:32:03 UTC] PHP Fatal error:  Call to undefined method HomesController::languageChanger() in /home/moatazelobeid/public_html/app/Controller/HomesController.php on line 83
+[10-Jan-2015 04:46:39 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/moatazelobeid/public_html/app/View/Helper/TemplateHelper.php on line 799
+[10-Jan-2015 05:36:53 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/moatazelobeid/public_html/app/View/Helper/TemplateHelper.php on line 859
+[10-Jan-2015 05:51:36 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/moatazelobeid/public_html/app/View/Helper/TemplateHelper.php on line 762
+[10-Jan-2015 05:53:47 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/moatazelobeid/public_html/app/View/Helper/TemplateHelper.php on line 762
+[10-Jan-2015 05:57:48 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/moatazelobeid/public_html/app/View/Helper/TemplateHelper.php on line 762

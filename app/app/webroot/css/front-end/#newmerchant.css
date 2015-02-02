@@ -1,0 +1,280 @@
+@charset "utf-8";
+/* CSS Document */
+.merchantlist
+{
+	width:auto;
+	height:auto;
+}
+.merchantlist h1
+{
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 28px;
+	line-height: 1.29;
+	color: #2F55A5;
+	margin: 0;
+	margin-bottom: 10px;
+	text-align: center;
+	padding-top: 20px;
+	font-weight: bold;
+}
+.merchantlist h2
+{
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 18px;
+	line-height: normal;
+	color: #F09103;
+	margin: 0;
+	margin-bottom: 10px;
+	text-align: center;
+	padding-top: 0;
+	font-weight: bold;
+}
+.merchantlist h3
+{
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 15px;
+	line-height: normal;
+	color: #5A5A5A;
+	margin: 0;
+	margin-bottom:20px;
+	text-align: center;
+	padding-top: 0;
+	font-weight: bold;
+}
+.merchantlist p
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	line-height: 20px;
+	color:#121418;
+	margin: 3px 0 10px 0;
+}
+.suez-cols {
+	width: auto;
+	margin:25px -15px 0 -15px;
+	padding: 0;
+	position: relative;
+	zoom: 1;
+}
+.imgpanel1
+{
+	width:358px;
+	height:300px;
+	float:left;
+}
+.merchantright1
+{
+	float:left;
+	width:50%;
+	position:relative;
+margin-left: 7em;
+margin-top: 4em;
+}
+.merchantright1 h1
+{
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 22px;
+	line-height: 1.29;
+	color: #2F55A5;
+	margin: 0;
+	margin-bottom: 10px;
+	text-align: left;
+	padding-top: 20px;
+	font-weight: bold;
+}
+.merchantright1 h4
+{
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 17px;
+	line-height: normal;
+	color: #464545;
+	margin: 0;
+	margin-bottom: 18px;
+	text-align: left;
+	padding-top: 0;
+	font-weight:normal;
+}
+.circle1
+{
+	position: absolute;
+	left: -60px;
+	top: 20px;
+	width: 42px;
+	height: 45px;
+	border: 1px solid #F09103;
+	border-radius: 60px;
+	text-align: center;
+	font-family: sans-serif;
+	color: #F09103;
+	font-size: 26px;
+	font-weight: bold;
+	line-height: 45px;
+	padding-left: 2px;
+}
+.imgpanel2
+{
+	width:358px;
+	height:auto;
+	float:right;
+}
+.merchantright2
+{
+	float:right;
+	width:50%;
+	position:relative;
+	margin-left:3em;
+	margin-top: 4em;
+}
+.merchantright2 h1
+{
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 22px;
+	line-height: 1.29;
+	color: #2F55A5;
+	margin: 0;
+	margin-bottom: 10px;
+	text-align: left;
+	padding-top: 20px;
+	font-weight: bold;
+}
+.merchantright2 h4
+{
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 17px;
+	line-height: normal;
+	color: #464545;
+	margin: 0;
+	margin-bottom: 18px;
+	text-align: left;
+	padding-top: 0;
+	font-weight:normal;
+}
+.merchantright1 p, .merchantright2 p
+{
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 13px;
+	line-height: 20px;
+	color: #555555;
+	margin: 0;
+	margin-bottom: 20px;
+	text-align: left;
+	padding-top: 0;
+	font-weight: normal;
+}
+.midtitle1
+{
+font-family: 'Droid Sans', sans-serif;
+font-size: 24px;
+line-height: 1.29;
+color: #FF7000;
+margin: 0;
+margin-bottom: 0;
+text-align: center;
+font-weight: bold;
+clear: both;
+padding-top: 15px;
+}
+.features-icons-list {
+	padding: 30px 0 30px;
+	width:100%;
+	margin: 0 auto;
+}
+.grid-item {
+	float: left;
+	position: relative;
+	margin-bottom: 1.875em;
+	width: 48%;
+	margin-right: 30px;
+}
+.grid-item:last-child
+{
+	margin-right:0px;
+}
+.iconlistdata {
+	width:70px;
+	float:left;
+	margin-bottom: 15px;
+}
+.iconlistdata img
+{
+	width:60px;
+	float:left;
+	border:none;
+}
+.icondatalist
+{
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 15px;
+	line-height: 1.29;
+	color: #666666;
+	margin: 0;	
+	margin-bottom: 10px;
+	text-align: left;
+	padding-top: 20px;
+	font-weight: normal;
+	padding-top:16px;
+}
+.cta--blue {
+	margin-top: 0px;
+	background: #f2f7fa;
+	padding:20px 0 20px;
+border-top: solid 1px #C5D0DA;
+box-shadow: 0 1px 2px #6D6F70;
+}
+.cta__title-major {
+	font-size: 24px;
+	color: #0B2F7C;
+	line-height: 1.4;
+	margin-bottom: 5px;
+	font-family: 'Droid Sans', sans-serif;
+	font-weight: bold;
+}
+.cta__subtitle {
+	font-size: 24px;
+	color: #3F3E3E;
+	line-height: 1.2;
+	margin-bottom: 20px;
+	font-family: 'Droid Sans', sans-serif;
+	font-weight: normal;
+}
+.cta__button--small {
+	padding: 8px 16px;
+	margin-left: 15px;
+}
+.cta__button {
+	font-size: 19px;
+	padding: 12px 24px;
+	display: inline-block;
+}
+.cta__button, .btn-sub {
+	background: #2C6BCA;
+	border: 1px solid #2C6BCA;
+	border-radius: 1px;
+	padding: 12px 30px;
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 22px;
+	color: #fff;
+	cursor: pointer;
+	-webkit-appearance: none;
+	outline: none;
+	text-decoration: none;
+	text-transform: uppercase;
+	box-shadow: 0px 4px 0px rgb(9, 64, 134);
+}
+.cta__button:hover, .btn-sub
+{
+background: #FF8500;
+border: 1px solid #FF8500;
+box-shadow:0px 4px 0px #A05402;
+}
+.widthfixed
+{
+width: 171px;
+margin: 0 auto;
+display: block;
+text-align: center;
+margin-bottom: 25px;
+padding: 10px 20px!important;
+}
+
+

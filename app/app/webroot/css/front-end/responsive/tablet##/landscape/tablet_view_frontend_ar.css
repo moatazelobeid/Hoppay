@@ -1,0 +1,56 @@
+/* CSS Document */
+
+@media screen and (max-width: 650px) {
+	
+}body{overflow-x:hidden;
+	img{max-width:100%;}
+	.header{height:auto;}
+	.listdata{height:240px; overflow-x:hidden;}
+	.grid{min-width: inherit;max-width: inherit;margin: 0 3%;width: 94%!important; height:auto!important;}
+	.listdata ul{width:100%;}
+	.listdata ul li{width:100%;float: none; margin-bottom:1em; margin-right:0;}
+	.img_cover{width:97%; height:150px;}
+	.hover-text{height:100%; width:93%;}
+	.hover-text ul li a{font-size:1.4em;}
+	.hover-text .title2, .hover-text .title2 a{font-size: 1.3em;}
+	.hover-text .more{font-size: 2em;}
+	.shopby{width:92%;background-position: right 5px; font-size: 1.5em; border-bottom:1px dotted rgb(111, 111, 111);}
+	#nav li{height:2.5em;}
+	#nav a:link, #nav a:visited{padding-right: 18px;}
+	#polyglotLanguageSwitcher ul.dropdown{top:26px;}
+	.menupanel1 .icon_close{right: 0px!important;background-size: 79%;}
+	.listdata ul li .gimage{margin-bottom:2em;}
+	.serachpan{padding-top: 8em; width:auto;}
+	.clt1{float:none; width:100%;}
+	.clt1 img{display:block; margin:0 auto;}
+	.clt2{float:none; width:auto; min-width:inherit;}
+	.searchbar{float:left; width:auto;}
+	.listdatapan{width:98%; margin-top:4.1em;}
+	.fullscreen_open{bottom:5.5em;}
+	.footersection{height:70px;}
+	.fot1{float:none; text-align:center; font-size:1.1em;}
+	.fot2{text-align:center; padding-top:1em;font-size:1.1em; float:none;}
+	.leftitempanel{width:72%;}
+	.bodypanel_inner{width:95%!important}
+	.left-nav{float:none; width:100%; margin-right:0; border-right:0px;  margin-top:11em;}
+	.col_righttotal{margin-left:0; width:100%; float:none; clear:both;}
+	.grid_inner{width:95%; height:auto!important;}
+	.toplogo{width:60%; margin:0 auto; float:none;}
+	.inner_header{height:auto; top:5.7em;padding-bottom: 1em!important;}
+	.righttop{float:none; width:100%;}
+	.search-bar-text{width:70%;}
+	.search_hints{width: 76%!important;}
+	a.recent_visit{position:inherit; left:inherit; width:35%; margin:0 auto; right:0!important;}
+	.seacrhpanel{margin-top: 3em; float:none;width: 100%;}
+	.sortbypan {width: auto;height: 23px;float: left;}
+	.select-box, .sortbypan{float:left;}
+	.sortbypan{margin-left:1em;}
+	.full-width{float: none;width: auto;margin-bottom: 4em;clear: both;border-bottom: none;}
+	.p-list li{width: 88%; margin-right:0;}
+	.footer{height:auto;}
+	.fot1{text-align:center;}
+	#back-top{bottom: 17px!important;}
+	.loadingmore{font-size:1.5em; width:35%;}
+	.viewbypan {width: auto;float: left;padding-left: 1em;}
+	.productsCatalog_list{padding-top:2em; clear:both;}
+	.bodypanl{margin-top:12em;}

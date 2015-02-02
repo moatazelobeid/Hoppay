@@ -1,0 +1,143 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/* ---------------------------------------------------------------------- */
+/* "Polyglot" Language Switcher
+/* ----------------------------------------------------------------------
+Version: 1.4
+Author: Ixtendo
+Author URI: http://www.ixtendo.com
+License: MIT License
+License URI: http://www.opensource.org/licenses/mit-license.php
+------------------------------------------------------------------------- */
+
+
+/* ---------------------------------------------------------------------- */
+/* TABLE OF CONTENTS
+/* ----------------------------------------------------------------------
+-Generic
+-JS-created Code
+------------------------------------------------------------------------- */
+
+
+/* ---------------------------------------------------------------------- */
+/* Generic
+/* ---------------------------------------------------------------------- */
+#polyglotLanguageSwitcher, #polyglotLanguageSwitcher * {
+	margin: 0;
+	padding: 0; 
+	outline: none;
+}
+
+#polyglotLanguageSwitcher ul {
+	list-style: none;	
+}
+
+#polyglotLanguageSwitcher {
+	
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #444;
+	line-height: normal;
+	position: relative; /* sets the initial position for the drop-down menu */	
+	z-index: 100;
+}
+
+#polyglotLanguageSwitcher form {
+	display: none;	
+}
+
+/* ---------------------------------------------------------------------- */
+/* JS-created Code
+/* ---------------------------------------------------------------------- */
+#polyglotLanguageSwitcher a {
+	text-decoration: none;
+	display: block;	
+	padding: 0px 0px 10px 30px; /* 6px 6px 6px 28px */
+	color:#acacac;
+	width:62px; /* 84px; total width: 120px */
+	background-repeat: no-repeat;
+	background-position: 6px center; 
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+
+#polyglotLanguageSwitcher a:hover {
+	color: #FFAD1B;	
+}
+
+#polyglotLanguageSwitcher a.current:link, #polyglotLanguageSwitcher a.current:visited, #polyglotLanguageSwitcher a.current:active {
+	position: relative; /* sets the initial position for the trigger arrow */
+	background-color:transparent;
+	border:none;
+	border-radius:0;
+	height: 5px; /* 15px */
+}
+
+/*#polyglotLanguageSwitcher a.current:hover, 
+#polyglotLanguageSwitcher ul.dropdown li:hover {
+	background-color: #F7F7F7;
+}*/
+
+#polyglotLanguageSwitcher a.active { /* This style is applied as long as the drop-down menu is visible. */
+	border-bottom: none !important;
+	border-radius: 3px 3px 0 0 !important;
+}
+
+#polyglotLanguageSwitcher span.trigger {
+	display: block;
+	position: absolute;
+	width: 9px;
+	height: 5px;
+	text-indent: -10000em;
+	top: 0.5em; /* 6px */
+	right: 0px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+
+#polyglotLanguageSwitcher a.current:link span.trigger, #polyglotLanguageSwitcher a.current:visited span.trigger {
+	background: url(../../img/arrow-down.png) no-repeat left top;	
+}
+
+#polyglotLanguageSwitcher a.current:hover span.trigger, #polyglotLanguageSwitcher a.current:active span.trigger, #polyglotLanguageSwitcher a.active span.trigger {
+	background-position: left bottom !important;
+}
+
+/* Drop-Down Menu */
+
+#polyglotLanguageSwitcher ul.dropdown { 
+	display: none;
+	position: absolute;
+	top: 30px;
+	right: 0px;
+	background-color: #FFF;
+	border: none;
+	border-radius: 0;
+	width: 97px;
+}
+
+#polyglotLanguageSwitcher ul.dropdown li { 
+	border-top: none;
+	padding: 4px 3px;
+	display: block;
+}
+#polyglotLanguageSwitcher ul.dropdown li a { 
+	border-top: none;
+	padding: 2px 1px 3px 31px;
+	display: block;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#36b;
+}
+#polyglotLanguageSwitcher ul.dropdown li:last-child { 
+	border-radius: 0 0 3px 3px;
+}
+
+/* Flags */
+
+#en { 
+	background-image: url(../../img/flags/gb.png);
+}
+
+#ar { 
+	background-image: url(../../img/flags/saudi-ar.png);	
+}
