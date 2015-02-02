@@ -1,0 +1,5 @@
+Sitemap: http://www.hoppay.com/sitemap.xml
+User-agent: *  
+Disallow: /
+ 
+  
