@@ -1,0 +1,6 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Language" content="ar" />
+<br />
+<b>Fatal error</b>:  Call to a member function find() on a non-object in <b>/home/moatazelobeid/public_html/app/webroot/crawling_beta/souq_en_ar.php</b> on line <b>68</b><br />

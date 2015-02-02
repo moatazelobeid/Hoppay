@@ -1,0 +1,345 @@
+<?php
+session_start(); ob_start();
+ini_set('max_execution_time','8000000');
+ini_set('memory_limit','100000M');
+
+include('db.php');
+
+include('simple_html_dom.php');
+?>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Language" content="ar" />
+<?php
+//mysql_query("truncate table mc_products_temp");
+$site_url = 'http://uae.souq.com';
+$temp_language = 'en';
+$marchant_url = $site_url;
+
+$main_html = file_get_html($site_url."/ae-en/shop-all-categories/c/", true);
+
+// 1 means images index of the webpage
+$marchant_logo = $main_html->find('img', 1)->src;
+
+$cnt = count($main_html->find("div.marr-314",0)->find('div[style="margin-bottom:30px;"]'));
+for($i = 0; $i < $cnt; $i++){
+foreach($main_html->find('div[style="margin-bottom:30px;"]', $i) as $sub_first) {
+				
+	$div_content = $sub_first->outertext;
+	$sp = explode('<h4 class="text-orange">', $div_content);
+	
+	for($j = 1; $j < count($sp); $j++){
+		
+		$each_section = $sp[$j];
+		$h4 = explode('</h4>', $each_section);
+		// department
+		$department = $h4[0];  
+		//$department = preg_replace("/&#?[a-z0-9]+;/i","",$department);
+		//$department = htmlspecialchars_decode($department);
+		$department = html_entity_decode($department);
+		// put into string to DOM
+		$temp_html = str_get_html($each_section);
+		
+		// loop each ul li a
+		foreach($temp_html->find('ul li a') as $str_last) {
+						
+			$image_url="";
+			$product_full_name="";
+			$product_url="";
+			$slug="";
+			$currency="";
+			$price="";
+			$product_description="";
+			$specification="";
+			$category = trim($str_last->plaintext); 
+			$category = html_entity_decode($category);
+			$product_list_url = $str_last->href.'?page=1'; 
+			
+			$html = file_get_html($product_list_url, true);			
+			$sl = 1;	
+			foreach($html->find('div[id=ItemResultList]') as $sub_first) { 
+				
+				$prod_sl = 1;
+				foreach($sub_first->find('div.single-item-browse') as $sub_sec) {
+					
+					$image_url = '["'.addslashes($sub_sec->find('img', 0)->src).'"]'; 
+					$product_full_name = $sub_sec->find('a', 1)->plaintext;  
+					$product_url = $sub_sec->find('a', 0)->href; 
+					
+					# Get Product full name for SLUG
+					if($product_full_name <> ""){
+						$slug = create_url_slug($product_full_name);
+					}
+					# End Slug
+
+					$currency = trim($sub_sec->find('div span.currency', 0)->plaintext);  
+					$price = trim(str_replace($currency, "", $sub_sec->find('div.small-price', 0)->plaintext)); //echo $price;exit;
+					//echo $sub_sec->find('span.striked')->plaintext; exit;
+					if(isset($sub_sec->find('span.striked', 0)->plaintext)){
+						$old_price = trim(str_replace($currency, "", $sub_sec->find('span.striked', 0)->plaintext));
+						$diff = round($old_price) - round($price);
+						$percent = $diff/$old_price;
+						$percent_friendly = number_format( $percent * 100, 2 ) . '%';
+						$ins_qry_en = "INSERT INTO mc_offers set merchant_id='1', offer_title='$percent_friendly. Discount', discount='$percent_friendly'"; //echo $ins_qry;
+						mysql_query($ins_qry_en);
+						$lst_insrt_id_en = mysql_query("SELECT MAX(id) as MaximumID FROM mc_offers"); //echo $lst_insrt_id;exit;
+						$off_id_en = mysql_fetch_array($lst_insrt_id_en); 
+						$id_en = $off_id_en["MaximumID"];
+					}else{
+						$id_en = '';
+					}
+										
+					if(isset($sub_sec->find('div.product-attributes ul li', 0)->plaintext)){
+						$brand_nm = $sub_sec->find('div.product-attributes ul li', 0)->plaintext; 
+						
+						//$brand = 'Lux'; 
+						$chk_brand =  mysql_query("SELECT id FROM  `mc_product_brands` WHERE  `slug` = '".$brand_nm."'");
+						$brand_id = mysql_fetch_array($chk_brand);		
+						if(isset($brand_id) && !empty($brand_id)){ 
+							$brand = $brand_id['id'];
+						}else{ 
+							$chk_brand1 = mysql_query("INSERT INTO mc_product_brands set slug ='$brand_nm'");
+							$lst_insrt_id_en = mysql_query("SELECT MAX(id) as MaximumID FROM mc_product_brands"); 
+							$brand_id_en = mysql_fetch_array($lst_insrt_id_en); 
+							$brand = $brand_id_en["MaximumID"];
+							
+							$insrt_langs = mysql_query("INSERT INTO mc_product_brand_langs set brand_id ='$brand', lang_id = 1, brand_title = '$brand_nm', description = '$brand_nm' ");							
+						}
+						
+					}else{
+						$brand = 'None';
+						$chk_brand =  mysql_query("SELECT id FROM  `mc_product_brands` WHERE  `slug` = '".$brand."'");
+						$brand_id = mysql_fetch_array($chk_brand);		
+						if(isset($brand_id) && !empty($brand_id)){ 
+							$brand = $brand_id['id'];
+						}else{ 
+							$inst = "INSERT INTO mc_product_brands set slug ='$brand', image_url ='$image_url'";
+							$chk_brand = mysql_query($inst);
+							$lst_insrt_id_en = mysql_query("SELECT MAX(id) as MaximumID FROM mc_product_brands"); 
+							$brand_id_en = mysql_fetch_array($lst_insrt_id_en); 
+							$brand = $brand_id_en["MaximumID"];
+							$insrt_langs = mysql_query("INSERT INTO mc_product_brand_langs set brand_id ='$brand', lang_id = 1, brand_title = '$brand_nm', description = '$brand_nm' ");
+						}	
+					}
+					
+					$single_product_list_html = file_get_html($product_url, true);
+					
+					$product_description = mysql_real_escape_string(trim($single_product_list_html->find('div.item_tab_contents_wrapper',0)->plaintext));
+					
+					$product_description .= "<br><br>".mysql_real_escape_string(trim($single_product_list_html->find('div.item_tab_contents_wrapper',1)->plaintext));
+			
+					$product_description =addslashes($product_description); 
+					
+					$specification = '';
+					foreach($single_product_list_html->find('div.ui-tabs-panel table') as $product_spe){
+						
+						foreach($product_spe->find('tr') as $product_spe_tr){
+							
+							$temp = explode(":", $product_spe_tr->plaintext); 
+							if($specification == ''){
+								$specification = '"'.trim($temp[0]).'"=>"'.trim($temp[1]).'"';
+							}else{
+								$specification = $specification.',"'.trim($temp[0]).'"=>"'.trim($temp[1]).'"';
+							}
+						}
+						
+						$specification = mysql_real_escape_string($specification);
+						$specification = addslashes($specification);
+					}
+					//$rs1 = mysql_query("select * from mc_products_temp where product_url = '".$product_url."' and lang=1")or die(mysql_error());
+					//if(mysql_num_rows($rs1) <= 0){
+						$ins_query = "INSERT INTO mc_products_temp set merchant_product_id='1',marchant_url='$marchant_url',marchant_logo='$marchant_logo',language='$temp_language',product_name='$product_full_name',slug='$slug',product_url='$product_url',department='$department',category_name='$category',currency='$currency',price='$price',image_url='$image_url',brand='$brand',offer_id='$id_en',specification='$specification',product_description='$product_description',lang=1";
+						mysql_query($ins_query);
+					//}
+					//if($prod_sl > 10){ break; }
+					$prod_sl++;
+				}
+			}
+			
+			//if($sl > 1){ break; }
+			$sl++;
+			
+		}
+	}
+}
+}
+
+// Arabic version
+$site_url = 'http://uae.souq.com';
+$temp_language = 'ar';
+$marchant_url = $site_url;
+
+$main_html = file_get_html($site_url."/ae-ar/shop-all-categories/c/", true);
+
+// 1 means images index of the webpage
+$marchant_logo = $main_html->find('img', 1)->src;
+
+$cnt_ar = count($main_html->find("div.marr-314",0)->find('div[style="margin-bottom:30px;"]')); 
+for($ii = 0; $ii < $cnt_ar; $ii++){
+foreach($main_html->find('div[style="margin-bottom:30px;"]', $ii) as $sub_first) {
+
+	$div_content = $sub_first->outertext;
+	$sp = explode('<h4 class="text-orange">', $div_content);
+	for($j = 1; $j < count($sp); $j++){
+		
+		$each_section = $sp[$j];
+		$h4 = explode('</h4>', $each_section);
+		
+		// department
+		$department = $h4[0];
+		//$department = preg_replace("/&#?[a-z0-9]+;/i","",$department);
+		//$department = htmlspecialchars_decode($department);
+		$department = html_entity_decode($department);
+		// put into string to DOM
+		$temp_html = str_get_html($each_section);
+		
+		// loop each ul li a
+		foreach($temp_html->find('ul li a') as $str_last) {
+						
+			$image_url="";
+			$product_full_name="";
+			$product_url="";
+			$slug="";
+			$currency="";
+			$price="";
+			$product_description="";
+			$specification="";
+			$category = trim($str_last->plaintext);
+			$category = html_entity_decode($category);
+			$product_list_url = $str_last->href.'?page=1';
+			
+			$html = file_get_html($product_list_url, true);
+			
+			$sl = 1;	
+			foreach($html->find('div[id=ItemResultList]') as $sub_first) { 
+				
+				$prod_sl = 1;
+				foreach($sub_first->find('div.single-item-browse') as $sub_sec) {
+					
+					$image_url = '["'.addslashes($sub_sec->find('img', 0)->src).'"]';
+					$product_full_name = $sub_sec->find('a', 1)->plaintext;
+					$product_url = $sub_sec->find('a', 0)->href; 
+					
+					# Get Product full name for SLUG
+					if($product_full_name <> ""){
+						$slug = create_url_slug($product_full_name);
+					}
+					# End Slug
+					
+					//$department = trim($sub_sec->find('div[id=body-top]', 0)->find('span',0)->plaintext); 
+					
+					// Get Price and Currency from product details page
+					$currency = trim($sub_sec->find('div span.currency', 0)->plaintext);
+					$price = trim(str_replace($currency, "", $sub_sec->find('div.small-price', 0)->plaintext));
+					$currency = trim($sub_sec->find('div.small-price span.currency', 0)->plaintext);
+					
+					if(isset($sub_sec->find('span.striked', 0)->plaintext)){
+						$old_price1 = trim(str_replace($currency, "", $sub_sec->find('span.striked', 0)->plaintext));				
+						$diff1 = round($old_price1) - round($price);
+						$percent1 = $diff1/$old_price1;
+						$percent_friendly1 = number_format( $percent1 * 100, 2 ) . '%';
+						
+						$ins_qry_ar = "INSERT INTO mc_offers set merchant_id='1', offer_title='$percent_friendly1. Discount', discount='$percent_friendly1'"; //echo $ins_qry;
+						mysql_query($ins_qry_ar);
+						$lst_insrt_id_ar = mysql_query("SELECT MAX(id) as MaximumID FROM mc_offers"); //echo $lst_insrt_id;exit;
+						$off_id_ar = mysql_fetch_array($lst_insrt_id_ar); 
+						$id_ar = $off_id_ar["MaximumID"];
+					}else{
+						$id_ar = '';
+					}
+					if(isset($sub_sec->find('div.product-attributes ul li', 0)->plaintext)){
+						$brand_nm = $sub_sec->find('div.product-attributes ul li', 0)->plaintext;  
+						$chk_brand =  mysql_query("SELECT id FROM  `mc_product_brands` WHERE  `slug` = '".$brand_nm."'");
+						$brand_id = mysql_fetch_array($chk_brand);		
+						if(isset($brand_id) && !empty($brand_id)){ 
+							$brand = $brand_id['id'];
+						}else{ 
+							$chk_brand1 = mysql_query("INSERT INTO mc_product_brands set slug ='$brand_nm'");
+							$lst_insrt_id_en = mysql_query("SELECT MAX(id) as MaximumID FROM mc_product_brands"); 
+							$brand_id_en = mysql_fetch_array($lst_insrt_id_en); 
+							$brand = $brand_id_en["MaximumID"];
+							
+							$insrt_langs = mysql_query("INSERT INTO mc_product_brand_langs set brand_id ='$brand', lang_id = 1, brand_title = '$brand_nm', description = '$brand_nm' ");							
+						}
+						
+					}else{
+						$brand = 'None';
+						$chk_brand =  mysql_query("SELECT id FROM  `mc_product_brands` WHERE  `slug` = '".$brand."'");
+						$brand_id = mysql_fetch_array($chk_brand);		
+						if(isset($brand_id) && !empty($brand_id)){ 
+							$brand = $brand_id['id'];
+						}else{ 
+							$inst = "INSERT INTO mc_product_brands set slug ='$brand', image_url ='$image_url'";
+							$chk_brand = mysql_query($inst);
+							$lst_insrt_id_en = mysql_query("SELECT MAX(id) as MaximumID FROM mc_product_brands"); 
+							$brand_id_en = mysql_fetch_array($lst_insrt_id_en); 
+							$brand = $brand_id_en["MaximumID"];
+							$insrt_langs = mysql_query("INSERT INTO mc_product_brand_langs set brand_id ='$brand', lang_id = 1, brand_title = '$brand_nm', description = '$brand_nm' ");
+						}	
+					}
+					
+					
+								
+					$single_product_list_html = file_get_html($product_url, true);
+					$product_description = mysql_real_escape_string(trim($single_product_list_html->find('div.item_tab_contents_wrapper',0)->plaintext));
+					
+					$specification = '';
+					foreach($single_product_list_html->find('div.ui-tabs-panel table') as $product_spe){
+						
+						foreach($product_spe->find('tr') as $product_spe_tr){
+							
+							$temp = explode(":", $product_spe_tr->plaintext);
+							if($specification == ''){
+								$specification = '"'.trim($temp[0]).'"=>"'.trim($temp[1]).'"';
+							}else{
+								$specification = $specification.',"'.trim($temp[0]).'"=>"'.trim($temp[1]).'"';
+							}
+						}
+						
+						$specification = mysql_real_escape_string($specification);
+						$specification = addslashes($specification);
+					}
+					
+					# Check product exist in database for a particular marchant with product name
+					/*$chk_qry = mysql_query("select id from mc_products_temp where marchant_url='$marchant_url' And product_name='$product_full_name' And price='$price' and language='$temp_language'");
+					$chk_num = mysql_num_rows($chk_qry);
+					if($chk_num > 0){
+						mysql_query("delete from mc_products_temp where marchant_url='$marchant_url' And product_name='$product_full_name' And price='$price' and language='$temp_language'");
+					}*/
+					#
+					
+					//$ins_query = "INSERT INTO mc_products_temp set merchant_product_id='1',marchant_url='$marchant_url',marchant_logo='$marchant_logo',language='$temp_language',product_name='$product_full_name',slug='$slug',product_url='$product_url',category_name='$category',currency='$currency',price='$price',image_url='$image_url',brand='$brand',specification='$specification',product_description='$product_description',offer_id='$id_ar',lang=2,department='".$department."'";
+					
+					//$rs2 = mysql_query("select * from mc_products_temp where product_url = '".$product_url."' and lang=1")or die(mysql_error());
+					//if(mysql_num_rows($rs2) <= 0){
+						$ins_query = "INSERT INTO mc_products_temp set merchant_product_id='1',marchant_url='$marchant_url',marchant_logo='$marchant_logo',language='$temp_language',product_name='$product_full_name',slug='$slug',product_url='$product_url',category_name='$category',currency='$currency',price='$price',image_url='$image_url',brand='$brand1',offer_id='$id_en',specification='$specification',product_description='$product_description',lang=2,department='$department' ";
+						mysql_query($ins_query);
+					//}
+					//if($prod_sl > 0){ break; }
+					$prod_sl++;
+				}
+			}
+			
+			//if($sl > 1){ break; }
+			$sl++;
+		}
+	}
+} 
+
+# update crawl_end_date
+mysql_query("update mc_merchants_new set crawl_end_date=now() where site_id > '0'");
+mysql_query("update mc_merchants_new set site_id='0' where site_id > '0'");
+
+// cron sucess
+//mail("maas_kishor@yahoo.in","souq cron sucess","souq hello cron");
+
+// Slug generate function
+function create_url_slug($string){
+   $slug=preg_replace('/[^A-Za-z0-9-]+/', '-', $string);
+   return strtolower($slug);
+}
+mysql_query("update mc_merchants_new set crawl_end_date=now() where id=1");
+mysql_query("update mc_merchants_new set site_id=0");
+?>

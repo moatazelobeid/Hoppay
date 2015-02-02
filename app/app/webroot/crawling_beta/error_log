@@ -1,0 +1,18 @@
+[18-Nov-2014 07:00:02 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/moatazelobeid/public_html/app/webroot/crawling/ikea_en_ar.php on line 20
+[18-Nov-2014 07:04:08 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/moatazelobeid/public_html/app/webroot/crawling/souq_en_ar.php on line 18
+[18-Nov-2014 07:04:08 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/moatazelobeid/public_html/app/webroot/crawling/sukar_en_ar.php on line 20
+[18-Nov-2014 07:59:32 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/moatazelobeid/public_html/app/webroot/crawling/namshi_en_ar.php on line 50
+[25-Nov-2014 13:06:45 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/moatazelobeid/public_html/app/webroot/crawling_beta/souq_en_ar.php on line 68
+[25-Nov-2014 13:06:46 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/moatazelobeid/public_html/app/webroot/crawling_beta/souq_en_ar.php on line 68
+[25-Nov-2014 13:38:46 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/moatazelobeid/public_html/app/webroot/crawling_beta/souq_en_ar.php on line 68
+[25-Nov-2014 14:19:43 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/moatazelobeid/public_html/app/webroot/crawling_beta/souq_en_ar.php on line 68
+[25-Nov-2014 14:29:53 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/moatazelobeid/public_html/app/webroot/crawling_beta/souq_en_ar.php on line 68
+[25-Nov-2014 14:38:38 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/moatazelobeid/public_html/app/webroot/crawling_beta/souq_en_ar.php on line 68
+[09-Dec-2014 13:54:32 UTC] PHP Fatal error:  Out of memory (allocated 6331564032) (tried to allocate -832987992 bytes) in /home/moatazelobeid/public_html/app/webroot/crawling_beta/souq_en_ar.php on line 118
+[09-Dec-2014 14:12:12 UTC] PHP Fatal error:  Out of memory (allocated 7036207104) (tried to allocate -832987992 bytes) in /home/moatazelobeid/public_html/app/webroot/crawling_beta/souq_en_ar.php on line 118
+[09-Dec-2014 14:29:10 UTC] PHP Fatal error:  Out of memory (allocated 6155927552) (tried to allocate -832987992 bytes) in /home/moatazelobeid/public_html/app/webroot/crawling_beta/souq_en_ar.php on line 118
+[09-Dec-2014 14:44:15 UTC] PHP Fatal error:  Out of memory (allocated 6327894016) (tried to allocate -832987992 bytes) in /home/moatazelobeid/public_html/app/webroot/crawling_beta/souq_en_ar.php on line 118
+[09-Dec-2014 15:00:50 UTC] PHP Fatal error:  Out of memory (allocated 6331564032) (tried to allocate -832987992 bytes) in /home/moatazelobeid/public_html/app/webroot/crawling_beta/souq_en_ar.php on line 118
+[11-Dec-2014 14:25:56 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/moatazelobeid/public_html/app/webroot/crawling_beta/souq_en_ar.php on line 126
+[11-Dec-2014 16:44:08 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/moatazelobeid/public_html/app/webroot/crawling_beta/souq_en_ar.php on line 126
+[11-Dec-2014 16:45:02 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/moatazelobeid/public_html/app/webroot/crawling_beta/souq_en_ar.php on line 126
